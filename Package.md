@@ -1,3 +1,17 @@
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
 | Data/App | 包名 | 备注 | 建议 |
 | --- | --- | --- | --- |
 | /data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器 | 可禁用 |
@@ -14,7 +28,6 @@
 ***
 | Product/App | 包名 | 备注 | 建议 |
 |---|---|---|---|
-|<img width=200px/>|<img width=500px/>||<img width=200px/>|<img width=500px/>|
 |	/product/app/atfwd/atfwd.apk 	|	 com.qualcomm.atfwd	| Wifi Display(miracast)	| 可禁用 |
 |	/product/app/CallFeaturesSetting/CallFeaturesSetting.apk 	|	 com.qualcomm.qti.callfeaturessetting	| 疑似电话相关	| 可禁用	|
 |	/product/app/colorservice/colorservice.apk 	|	 com.qti.service.colorservice	|	|	|
