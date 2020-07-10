@@ -33,7 +33,7 @@
 |	/product/app/QdcmFF/QdcmFF.apk 	|	 com.qti.snapdragon.qdcm_ff	|	|	|
 |	/product/app/QtiSystemService/QtiSystemService.apk 	|	 com.qualcomm.qti.qtisystemservice	|	|	|
 |	/product/app/QtiTelephonyService/QtiTelephonyService.apk 	|	 com.qualcomm.qti.telephonyservice	|	|	|
-|	/product/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk 	|	 com.qualcomm.qti.remoteSimlockAuth	|	|	|
+|	/product/app/remoteSimLockAuthentication/<br/>remoteSimLockAuthentication.apk 	|	 com.qualcomm.qti.remoteSimlockAuth	|	|	|
 |	/product/app/remotesimlockservice/remotesimlockservice.apk 	|	 com.qualcomm.qti.uim	|	|	|
 |	/product/app/talkback/talkback.apk 	|	 com.google.android.marvin.talkback	|	|	|
 |	/product/app/uceShimService/uceShimService.apk 	|	 com.qualcomm.qti.uceShimService	|	|	|
@@ -51,9 +51,9 @@
 |	/product/overlay/AccentColorPurple/AccentColorPurpleOverlay.apk 	|	 com.android.theme.color.purple	|	|	|
 |	/product/overlay/AccentColorSpace/AccentColorSpaceOverlay.apk 	|	 com.android.theme.color.space	|	|	|
 |	/product/overlay/BluetoothResCommon.apk 	|	 com.android.bluetooth.overlay.common	|	|	|
-|	/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk 	|	 com.android.internal.display.cutout.emulation.corner	|	|	|
-|	/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk 	|	 com.android.internal.display.cutout.emulation.double	|	|	|
-|	/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk 	|	 com.android.internal.display.cutout.emulation.tall	|	|	|
+|	/product/overlay/DisplayCutoutEmulationCorner/<br/>DisplayCutoutEmulationCornerOverlay.apk 	|	 com.android.internal.display.cutout.emulation.corner	|	|	|
+|	/product/overlay/DisplayCutoutEmulationDouble/<br/>DisplayCutoutEmulationDoubleOverlay.apk 	|	 com.android.internal.display.cutout.emulation.double	|	|	|
+|	/product/overlay/DisplayCutoutEmulationTall/<br/>DisplayCutoutEmulationTallOverlay.apk 	|	 com.android.internal.display.cutout.emulation.tall	|	|	|
 |	/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk 	|	 com.android.theme.font.notoserifsource	|	|	|
 |	/product/overlay/FrameworksResCommonQva.apk 	|	 android.qvaoverlay.common	|	|	|
 |	/product/overlay/GmsCnConfigOverlay.apk 	|	 com.google.android.overlay.gmsconfig	|	|	|
@@ -78,9 +78,9 @@
 |	/product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk 	|	 com.android.internal.systemui.navbar.twobutton	|	|	|
 |	/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk 	|	 com.android.internal.systemui.navbar.threebutton	|	|	|
 |	/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk 	|	 com.android.internal.systemui.navbar.gestural	|	|	|
-|	/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk 	|	 com.android.internal.systemui.navbar.gestural_extra_wide_back	|	|	|
-|	/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk 	|	 com.android.internal.systemui.navbar.gestural_narrow_back	|	|	|
-|	/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk 	|	 com.android.internal.systemui.navbar.gestural_wide_back	|	|	|
+|	/product/overlay/NavigationBarModeGesturalExtraWideBack/<br/>NavigationBarModeGesturalOverlayExtraWideBack.apk 	|	 com.android.internal.systemui.navbar.gestural_extra_wide_back	|	|	|
+|	/product/overlay/NavigationBarModeGesturalNarrowBack/<br/>NavigationBarModeGesturalOverlayNarrowBack.apk 	|	 com.android.internal.systemui.navbar.gestural_narrow_back	|	|	|
+|	/product/overlay/NavigationBarModeGesturalWideBack/<br/>NavigationBarModeGesturalOverlayWideBack.apk 	|	 com.android.internal.systemui.navbar.gestural_wide_back	|	|	|
 |	/product/priv-app/CarrierConfig/CarrierConfig.apk 	|	 com.android.carrierconfig	|	|	|
 |	/product/priv-app/ConfigUpdater/ConfigUpdater.apk 	|	 com.google.android.configupdater	|	|	|
 |	/product/priv-app/dpmserviceapp/dpmserviceapp.apk 	|	 com.qti.dpmserviceapp	|	|	|
@@ -126,7 +126,7 @@
 |	/system/app/FusedLocationProvider/FusedLocationProvider.apk 	|	 com.xiaomi.location.fused	|	|	|
 |	/system/app/GFDelmarSetting/GFDelmarSetting.apk 	|	 com.goodix.fingerprint.setting	|	|	|
 |	/system/app/GoogleExtShared/GoogleExtShared.apk 	|	 com.google.android.ext.shared	|	|	|
-|	/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk 	|	 com.google.android.printservice.recommendation	|	|	|
+|	/system/app/GooglePrintRecommendationService/<br/>GooglePrintRecommendationService.apk 	|	 com.google.android.printservice.recommendation	|	|	|
 |	/system/app/GuardProvider/GuardProvider.apk 	|	 com.miui.guardprovider	|	|	|
 |	/system/app/HTMLViewer/HTMLViewer.apk 	|	 com.android.htmlviewer	|	|	|
 |	/system/app/HybridAccessory/HybridAccessory.apk 	|	 com.miui.hybrid.accessory	|	|	|
@@ -219,7 +219,7 @@
 |	/system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk 	|	 com.android.cts.priv.ctsshim	|	|	|
 |	/system/priv-app/DownloadProvider/DownloadProvider.apk 	|	 com.android.providers.downloads	|	|	|
 |	/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk 	|	 com.android.providers.downloads.ui	|	|	|
-|	/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk 	|	 com.android.dynsystem	|	|	|
+|	/system/priv-app/DynamicSystemInstallationService/<br/>DynamicSystemInstallationService.apk 	|	 com.android.dynsystem	|	|	|
 |	/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk 	|	 com.android.externalstorage	|	|	|
 |	/system/priv-app/FindDevice/FindDevice.apk 	|	 com.xiaomi.finddevice	|	|	|
 |	/system/priv-app/FusedLocation/FusedLocation.apk 	|	 com.android.location.fused	|	|	|
@@ -252,7 +252,7 @@
 |	/system/priv-app/ONS/ONS.apk 	|	 com.android.ons	|	|	|
 |	/system/priv-app/PermissionController/PermissionController.apk 	|	 com.android.permissioncontroller	|	|	|
 |	/system/priv-app/PersonalAssistant/PersonalAssistant.apk 	|	 com.miui.personalassistant	|	|	|
-|	/system/priv-app/PlatformNetworkPermissionConfig/PlatformNetworkPermissionConfig.apk 	|	 com.android.networkstack.permissionconfig	|	|	|
+|	/system/priv-app/PlatformNetworkPermissionConfig/<br/>PlatformNetworkPermissionConfig.apk 	|	 com.android.networkstack.permissionconfig	|	|	|
 |	/system/priv-app/Provision/Provision.apk 	|	 com.android.provision	|	|	|
 |	/system/priv-app/ProxyHandler/ProxyHandler.apk 	|	 com.android.proxyhandler	|	|	|
 |	/system/priv-app/QuickSearchBox/QuickSearchBox.apk 	|	 com.android.quicksearchbox	|	|	|
@@ -276,7 +276,7 @@
 |	/system/priv-app/YellowPage/YellowPage.apk 	|	 com.miui.yellowpage	|	|	|
 |	/vendor/app/CACertService/CACertService.apk 	|	 vendor.qti.hardware.cacert.server	|	|	|
 |	/vendor/app/CneApp/CneApp.apk 	|	 com.qualcomm.qti.cne	|	|	|
-|	/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/com.qualcomm.qti.gpudrivers.sm8250.api29.apk 	|	 com.qualcomm.qti.gpudrivers.sm8250.api29	|	|	|
+|	/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/<br/>com.qualcomm.qti.gpudrivers.sm8250.api29.apk 	|	 com.qualcomm.qti.gpudrivers.sm8250.api29	|	|	|
 |	/vendor/app/DtxService/DtxService.apk 	|	 org.dtx.aidl.manager	|	|	|
 |	/vendor/app/EidService/EidService.apk 	|	 com.rongcard.eid	|	|	|
 |	/vendor/app/IconShapeOverlay/IconShapeOverlay.apk 	|	 com.android.systemui.icon.overlay	|	|	|
