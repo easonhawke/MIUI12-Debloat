@@ -1,8 +1,7 @@
-| 路径 | 包名 | 备注 |
+路径 | 包名 | 备注
 
-| --- | ---  | --- |
-
-| /data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器 |
+--- | ---  | ---
+/data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器
 
 | /data/app/CleanMaster/CleanMaster.apk | com.miui.cleanmaster | 清理工具 |
 
@@ -15,7 +14,7 @@ com.android.calendar
 /data/app/com.android.vending-hwdg-5YnH4mHJ2cU9VYDow==/base.apk
 com.android.vending
 谷歌服务可禁用
-***
+
 /data/app/com.miui.analytics-KheVa8Qecno57TC9bINl3w==/base.apk
 com.miui.analytics
 统计可禁用
