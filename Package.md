@@ -15,7 +15,7 @@
 | Product/App | 包名 | 备注 | 建议 |
 |---|---|---|---|
 |	/product/app/atfwd/atfwd.apk 	|	 com.qualcomm.atfwd	| Wifi Display(miracast)	| 可禁用 |
-|	<div style="width: 100px">/product/app/CallFeaturesSetting/CallFeaturesSetting.apk</div> 	|	 com.qualcomm.qti.callfeaturessetting	| 疑似电话相关	| 可禁用	|
+|	<div style="width: 100">/product/app/CallFeaturesSetting/CallFeaturesSetting.apk</div> 	|	 com.qualcomm.qti.callfeaturessetting	| 疑似电话相关	| 可禁用	|
 |	/product/app/colorservice/colorservice.apk 	|	 com.qti.service.colorservice	|	|	|
 |	/product/app/com.qualcomm.qti.services.secureui/<br/>com.qualcomm.qti.services.secureui.apk 	|	 com.qualcomm.qti.services.secureui	|	|	|
 |	/product/app/com.qualcomm.qti.services.systemhelper/<br/>com.qualcomm.qti.services.systemhelper.apk 	|	 com.qualcomm.qti.services.systemhelper	|	|	|
