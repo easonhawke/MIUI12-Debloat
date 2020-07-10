@@ -220,7 +220,7 @@
 |**com.android.cts.priv.ctsshim**<br/>*/system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk*|****|****|
 |**com.android.providers.downloads**<br/>*/system/priv-app/DownloadProvider/DownloadProvider.apk*|****|****|
 |**com.android.providers.downloads.ui**<br/>*/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk*|****|****|
-|**com.android.dynsystem**<br/>*/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk*|****|****|
+|**com.android.dynsystem**<br/>*/system/priv-app/DynamicSystemInstallationService/<br/>DynamicSystemInstallationService.apk*|****|****|
 |**com.android.externalstorage**<br/>*/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk*|****|****|
 |**com.xiaomi.finddevice**<br/>*/system/priv-app/FindDevice/FindDevice.apk*|****|****|
 |**com.android.location.fused**<br/>*/system/priv-app/FusedLocation/FusedLocation.apk*|****|****|
@@ -253,7 +253,7 @@
 |**com.android.ons**<br/>*/system/priv-app/ONS/ONS.apk*|****|****|
 |**com.android.permissioncontroller**<br/>*/system/priv-app/PermissionController/PermissionController.apk*|****|****|
 |**com.miui.personalassistant**<br/>*/system/priv-app/PersonalAssistant/PersonalAssistant.apk*|****|****|
-|**com.android.networkstack.permissionconfig**<br/>*/system/priv-app/PlatformNetworkPermissionConfig/PlatformNetworkPermissionConfig.apk*|****|****|
+|**com.android.networkstack.permissionconfig**<br/>*/system/priv-app/PlatformNetworkPermissionConfig/<br/>PlatformNetworkPermissionConfig.apk*|****|****|
 |**com.android.provision**<br/>*/system/priv-app/Provision/Provision.apk*|****|****|
 |**com.android.proxyhandler**<br/>*/system/priv-app/ProxyHandler/ProxyHandler.apk*|****|****|
 |**com.android.quicksearchbox**<br/>*/system/priv-app/QuickSearchBox/QuickSearchBox.apk*|****|****|
@@ -277,7 +277,7 @@
 |**com.miui.yellowpage**<br/>*/system/priv-app/YellowPage/YellowPage.apk*|****|****|
 |**vendor.qti.hardware.cacert.server**<br/>*/vendor/app/CACertService/CACertService.apk*|****|****|
 |**com.qualcomm.qti.cne**<br/>*/vendor/app/CneApp/CneApp.apk*|****|****|
-|**com.qualcomm.qti.gpudrivers.sm8250.api29**<br/>*/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/com.qualcomm.qti.gpudrivers.sm8250.api29.apk*|****|****|
+|**com.qualcomm.qti.gpudrivers.sm8250.api29**<br/>*/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/<br/>com.qualcomm.qti.gpudrivers.sm8250.api29.apk*|****|****|
 |**org.dtx.aidl.manager**<br/>*/vendor/app/DtxService/DtxService.apk*|****|****|
 |**com.rongcard.eid**<br/>*/vendor/app/EidService/EidService.apk*|****|****|
 |**com.android.systemui.icon.overlay**<br/>*/vendor/app/IconShapeOverlay/IconShapeOverlay.apk*|****|****|
