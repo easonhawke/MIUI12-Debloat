@@ -14,7 +14,7 @@
 ***
 | Product/App | 包名 | 备注 | 建议 |
 |---|---|---|---|
-|<img width=200/>|<img width=500/>||<img width=200/>|<img width=500/>|
+|<img width=200px/>|<img width=500px/>||<img width=200px/>|<img width=500px/>|
 |	/product/app/atfwd/atfwd.apk 	|	 com.qualcomm.atfwd	| Wifi Display(miracast)	| 可禁用 |
 |	/product/app/CallFeaturesSetting/CallFeaturesSetting.apk 	|	 com.qualcomm.qti.callfeaturessetting	| 疑似电话相关	| 可禁用	|
 |	/product/app/colorservice/colorservice.apk 	|	 com.qti.service.colorservice	|	|	|
