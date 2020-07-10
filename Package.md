@@ -52,9 +52,9 @@
 |**com.android.theme.color.purple**<br/>*/product/overlay/AccentColorPurple/AccentColorPurpleOverlay.apk*|****|****|
 |**com.android.theme.color.space**<br/>*/product/overlay/AccentColorSpace/AccentColorSpaceOverlay.apk*|****|****|
 |**com.android.bluetooth.overlay.common**<br/>*/product/overlay/BluetoothResCommon.apk*|****|****|
-|**com.android.internal.display.cutout.emulation.corner**<br/>*/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk*|****|****|
-|**com.android.internal.display.cutout.emulation.double**<br/>*/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk*|****|****|
-|**com.android.internal.display.cutout.emulation.tall**<br/>*/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk*|****|****|
+|**com.android.internal.display.cutout.emulation.corner**<br/>*/product/overlay/DisplayCutoutEmulationCorner/<br/>DisplayCutoutEmulationCornerOverlay.apk*|****|****|
+|**com.android.internal.display.cutout.emulation.double**<br/>*/product/overlay/DisplayCutoutEmulationDouble/<br/>DisplayCutoutEmulationDoubleOverlay.apk*|****|****|
+|**com.android.internal.display.cutout.emulation.tall**<br/>*/product/overlay/DisplayCutoutEmulationTall/<br/>DisplayCutoutEmulationTallOverlay.apk*|****|****|
 |**com.android.theme.font.notoserifsource**<br/>*/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk*|****|****|
 |**android.qvaoverlay.common**<br/>*/product/overlay/FrameworksResCommonQva.apk*|****|****|
 |**com.google.android.overlay.gmsconfig**<br/>*/product/overlay/GmsCnConfigOverlay.apk*|****|****|
