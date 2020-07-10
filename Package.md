@@ -1,4 +1,3 @@
-</style>
 | Data/App | 包名 | 备注 | 建议 |
 | --- | --- | --- | --- |
 | /data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器 | 可禁用 |
