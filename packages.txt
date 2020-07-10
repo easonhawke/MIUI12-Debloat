@@ -2,13 +2,9 @@
 
 | /data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器 |
 
-/data/app/CleanMaster/CleanMaster.apk
-com.miui.cleanmaster
-清理工具
+| /data/app/CleanMaster/CleanMaster.apk | com.miui.cleanmaster | 清理工具 |
 
-/data/app/com.android.browser-MndfuEm3R4JVwfyfDoWlyQ==/base.apk
-com.android.browser
-浏览器可禁用
+| /data/app/com.android.browser-MndfuEm3R4JVwfyfDoWlyQ==/base.apk | com.android.browser | 浏览器可禁用 |
 
 /data/app/com.android.calendar-hpxMeSYBsZOK4AiVx2W7PA==/base.apk
 com.android.calendar
