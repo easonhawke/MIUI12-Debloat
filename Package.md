@@ -18,8 +18,8 @@
 |**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast?**|**可禁用**|
 |**com.qualcomm.qti.callfeaturessetting**<br/>*/product/app/CallFeaturesSetting/CallFeaturesSetting.apk*|**电话?**|**可禁用**|
 |**com.qti.service.colorservice**<br/>*/product/app/colorservice/colorservice.apk*|****|****|
-|**com.qualcomm.qti.services.secureui**<br/>*/product/app/com.qualcomm.qti.services.secureui/com.qualcomm.qti.services.secureui.apk*|****|****|
-|**com.qualcomm.qti.services.systemhelper**<br/>*/product/app/com.qualcomm.qti.services.systemhelper/com.qualcomm.qti.services.systemhelper.apk*|****|****|
+|**com.qualcomm.qti.services.secureui**<br/>*/product/app/com.qualcomm.qti.services.secureui/<br/>com.qualcomm.qti.services.secureui.apk*|****|****|
+|**com.qualcomm.qti.services.systemhelper**<br/>*/product/app/com.qualcomm.qti.services.systemhelper/<br/>com.qualcomm.qti.services.systemhelper.apk*|****|****|
 |**com.qti.confuridialer**<br/>*/product/app/ConfURIDialer/ConfURIDialer.apk*|****|****|
 |**com.qti.qualcomm.datastatusnotification**<br/>*/product/app/datastatusnotification/datastatusnotification.apk*|****|****|
 |**com.qti.qualcomm.deviceinfo**<br/>*/product/app/DeviceInfo/DeviceInfo.apk*|****|****|
