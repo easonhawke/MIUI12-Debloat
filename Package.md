@@ -1,7 +1,3 @@
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
 </style>
 | Data/App | 包名 | 备注 | 建议 |
 | --- | --- | --- | --- |
@@ -17,10 +13,10 @@ table th:first-of-type {
 | /data/app/Notes/Notes.apk | com.miui.notes | 小米便签 | 可禁用 |
 | /data/app/Weather/Weather.apk | com.miui.weather2 | 小米天气 | 可禁用|
 ***
-| <div style="width: 100px">Product/App</div> | 包名 | 备注 | 建议 |
+| Product/App | 包名 | 备注 | 建议 |
 |---|---|---|---|
 |	/product/app/atfwd/atfwd.apk 	|	 com.qualcomm.atfwd	| Wifi Display(miracast)	| 可禁用 |
-|	/product/app/CallFeaturesSetting/CallFeaturesSetting.apk 	|	 com.qualcomm.qti.callfeaturessetting	| 疑似电话相关	| 可禁用	|
+|	<div style="width: 100px">/product/app/CallFeaturesSetting/CallFeaturesSetting.apk</div> 	|	 com.qualcomm.qti.callfeaturessetting	| 疑似电话相关	| 可禁用	|
 |	/product/app/colorservice/colorservice.apk 	|	 com.qti.service.colorservice	|	|	|
 |	/product/app/com.qualcomm.qti.services.secureui/<br/>com.qualcomm.qti.services.secureui.apk 	|	 com.qualcomm.qti.services.secureui	|	|	|
 |	/product/app/com.qualcomm.qti.services.systemhelper/<br/>com.qualcomm.qti.services.systemhelper.apk 	|	 com.qualcomm.qti.services.systemhelper	|	|	|
