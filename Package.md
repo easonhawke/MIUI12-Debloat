@@ -63,7 +63,7 @@
 |**com.android.theme.icon_pack.circular.launcher**<br/>*/product/overlay/IconPackCircularLauncher/IconPackCircularLauncherOverlay.apk*|****|****|
 |**com.android.theme.icon_pack.circular.settings**<br/>*/product/overlay/IconPackCircularSettings/IconPackCircularSettingsOverlay.apk*|****|****|
 |**com.android.theme.icon_pack.circular.systemui**<br/>*/product/overlay/IconPackCircularSystemUI/IconPackCircularSystemUIOverlay.apk*|****|****|
-|**com.android.theme.icon_pack.circular.themepicker**<br/>*/product/overlay/IconPackCircularThemePicker/IconPackCircularThemePickerOverlay.apk*|****|****|
+|**com.android.theme.icon_pack.circular.themepicker**<br/>*/product/overlay/IconPackCircularThemePicker/<br/>IconPackCircularThemePickerOverlay.apk*|****|****|
 |**com.android.theme.icon_pack.filled.android**<br/>*/product/overlay/IconPackFilledAndroid/IconPackFilledAndroidOverlay.apk*|****|****|
 |**com.android.theme.icon_pack.filled.launcher**<br/>*/product/overlay/IconPackFilledLauncher/IconPackFilledLauncherOverlay.apk*|****|****|
 |**com.android.theme.icon_pack.filled.settings**<br/>*/product/overlay/IconPackFilledSettings/IconPackFilledSettingsOverlay.apk*|****|****|
