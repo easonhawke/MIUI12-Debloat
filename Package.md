@@ -1,8 +1,7 @@
-***本文档正在施工中***
+***###本文档正在施工中***
 ***
 |**APK包**|**备注**|**建议**|
 |---|---|---|
-||||
 |**Data/App目录**|||
 |**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**小米计算**|**可禁用**|
 |**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**小米清理**|**可禁用**|
@@ -15,7 +14,7 @@
 |**com.miui.compass**<br/>*/data/app/MiuiCompass/MiuiCompass.apk*|**小米指南针**|**可禁用**|
 |**com.miui.notes**<br/>*/data/app/Notes/Notes.apk*|**小米便签**|**可禁用**|
 |**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**小米天气**|**可禁用**|
-||||
+|\-|\-|\-|
 |**Product/App目录**|||
 |**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast?**|**可禁用**|
 |**com.qualcomm.qti.callfeaturessetting**<br/>*/product/app/CallFeaturesSetting/CallFeaturesSetting.apk*|**电话相关?**|**可禁用**|
