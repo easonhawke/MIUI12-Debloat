@@ -14,8 +14,7 @@
 ***
 | Product/App | 包名 | 备注 | 建议 |
 |---|---|---|---|
-|	/product/app/at
-fwd/atfwd.apk 	|	 com.qualcomm.atfwd	|	|	|
+|	/product/app/at<br/>fwd/atfwd.apk 	|	 com.qualcomm.atfwd	|	|	|
 |	/product/app/CallFeaturesSetting/CallFeaturesSetting.apk 	|	 com.qualcomm.qti.callfeaturessetting	|	|	|
 |	/product/app/colorservice/colorservice.apk 	|	 com.qti.service.colorservice	|	|	|
 |	/product/app/com.qualcomm.qti.services.secureui/com.qualcomm.qti.services.secureui.apk 	|	 com.qualcomm.qti.services.secureui	|	|	|
