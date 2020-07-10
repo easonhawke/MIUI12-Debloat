@@ -12,21 +12,7 @@
 | /data/app/Notes/Notes.apk | com.miui.notes | 小米便签 | 可禁用 |
 | /data/app/Weather/Weather.apk | com.miui.weather2 | 小米天气 | 可禁用|
 ***
-
-
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
-</style>
-
-| Product/App | 包名 | 备注 | 建议 |
+| <div style="width: 100px">Product/App</div> | 包名 | 备注 | 建议 |
 |---|---|---|---|
 |	/product/app/atfwd/atfwd.apk 	|	 com.qualcomm.atfwd	| Wifi Display(miracast)	| 可禁用 |
 |	/product/app/CallFeaturesSetting/CallFeaturesSetting.apk 	|	 com.qualcomm.qti.callfeaturessetting	| 疑似电话相关	| 可禁用	|
