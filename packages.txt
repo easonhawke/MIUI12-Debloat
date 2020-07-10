@@ -1,8 +1,6 @@
 本文档正在施工中。。。
 
-/data/app/Calculator/Calculator.apk
-com.miui.calculator
-计算器
+/data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器
 
 /data/app/CleanMaster/CleanMaster.apk
 com.miui.cleanmaster
@@ -56,10 +54,13 @@ com.qualcomm.qti.callfeaturessetting
 
 /product/app/colorservice/colorservice.apk
 com.qti.service.colorservice
+
 /product/app/com.qualcomm.qti.services.secureui/com.qualcomm.qti.services.secureui.apk
 com.qualcomm.qti.services.secureui
+
 /product/app/com.qualcomm.qti.services.systemhelper/com.qualcomm.qti.services.systemhelper.apk
 com.qualcomm.qti.services.systemhelper
+
 /product/app/ConfURIDialer/ConfURIDialer.apk
 com.qti.confuridialer
 /product/app/datastatusnotification/datastatusnotification.apk
