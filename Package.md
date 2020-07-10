@@ -15,7 +15,7 @@ com.android.calendar
 /data/app/com.android.vending-hwdg-5YnH4mHJ2cU9VYDow==/base.apk
 com.android.vending
 谷歌服务可禁用
-
+***
 /data/app/com.miui.analytics-KheVa8Qecno57TC9bINl3w==/base.apk
 com.miui.analytics
 统计可禁用
