@@ -127,7 +127,7 @@
 |**com.xiaomi.location.fused**<br/>*/system/app/FusedLocationProvider/FusedLocationProvider.apk*|****|****|
 |**com.goodix.fingerprint.setting**<br/>*/system/app/GFDelmarSetting/GFDelmarSetting.apk*|****|****|
 |**com.google.android.ext.shared**<br/>*/system/app/GoogleExtShared/GoogleExtShared.apk*|****|****|
-|**com.google.android.printservice.recommendation**<br/>*/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk*|****|****|
+|**com.google.android.printservice.recommendation**<br/>*/system/app/GooglePrintRecommendationService/<br/>GooglePrintRecommendationService.apk*|****|****|
 |**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|****|****|
 |**com.android.htmlviewer**<br/>*/system/app/HTMLViewer/HTMLViewer.apk*|****|****|
 |**com.miui.hybrid.accessory**<br/>*/system/app/HybridAccessory/HybridAccessory.apk*|****|****|
