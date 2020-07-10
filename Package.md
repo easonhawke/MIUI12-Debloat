@@ -79,9 +79,9 @@
 |**com.android.internal.systemui.navbar.twobutton**<br/>*/product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk*|****|****|
 |**com.android.internal.systemui.navbar.threebutton**<br/>*/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk*|****|****|
 |**com.android.internal.systemui.navbar.gestural**<br/>*/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk*|****|****|
-|**com.android.internal.systemui.navbar.gestural_extra_wide_back**<br/>*/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk*|****|****|
-|**com.android.internal.systemui.navbar.gestural_narrow_back**<br/>*/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk*|****|****|
-|**com.android.internal.systemui.navbar.gestural_wide_back**<br/>*/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk*|****|****|
+|**com.android.internal.systemui.navbar.gestural_extra_wide_back**<br/>*/product/overlay/NavigationBarModeGesturalExtraWideBack/<br/>NavigationBarModeGesturalOverlayExtraWideBack.apk*|****|****|
+|**com.android.internal.systemui.navbar.gestural_narrow_back**<br/>*/product/overlay/NavigationBarModeGesturalNarrowBack/<br/>NavigationBarModeGesturalOverlayNarrowBack.apk*|****|****|
+|**com.android.internal.systemui.navbar.gestural_wide_back**<br/>*/product/overlay/NavigationBarModeGesturalWideBack/<br/>NavigationBarModeGesturalOverlayWideBack.apk*|****|****|
 |**com.android.carrierconfig**<br/>*/product/priv-app/CarrierConfig/CarrierConfig.apk*|****|****|
 |**com.google.android.configupdater**<br/>*/product/priv-app/ConfigUpdater/ConfigUpdater.apk*|****|****|
 |**com.qti.dpmserviceapp**<br/>*/product/priv-app/dpmserviceapp/dpmserviceapp.apk*|****|****|
