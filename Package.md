@@ -11,7 +11,10 @@
 | /data/app/MiuiCompass/MiuiCompass.apk | com.miui.compass | 指南针 | 可禁用 |
 | /data/app/Notes/Notes.apk | com.miui.notes | 小米便签 | 可禁用 |
 | /data/app/Weather/Weather.apk | com.miui.weather2 | 小米天气 | 可禁用|
-***<style>
+***
+
+
+<style>
 table th:first-of-type {
     width: 4cm;
 }
