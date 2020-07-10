@@ -1,6 +1,6 @@
 本文档正在施工中。。。
 
-/data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器
+| /data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器 |
 
 /data/app/CleanMaster/CleanMaster.apk
 com.miui.cleanmaster
