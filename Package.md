@@ -2,12 +2,6 @@
 table th:first-of-type {
     width: 4cm;
 }
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
 </style>
 | Data/App | 包名 | 备注 | 建议 |
 | --- | --- | --- | --- |
