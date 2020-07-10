@@ -1,4 +1,4 @@
-| 路径 | 包名 | 备注 | 建议 |
+| Data/App | 包名 | 备注 | 建议 |
 | --- | --- | --- | --- |
 | /data/app/Calculator/Calculator.apk | com.miui.calculator | 计算器 | 可禁用 |
 | /data/app/CleanMaster/CleanMaster.apk | com.miui.cleanmaster | 清理工具 | 可禁用 |
@@ -11,7 +11,9 @@
 | /data/app/MiuiCompass/MiuiCompass.apk | com.miui.compass | 指南针 | 可禁用 |
 | /data/app/Notes/Notes.apk | com.miui.notes | 小米便签 | 可禁用 |
 | /data/app/Weather/Weather.apk | com.miui.weather2 | 小米天气 | 可禁用|
-
+***
+| Product/App | 包名 | 备注 | 建议 |
+|---|---|---|---|
 |	/product/app/atfwd/atfwd.apk 	|	 com.qualcomm.atfwd	|	|	|
 |	/product/app/CallFeaturesSetting/CallFeaturesSetting.apk 	|	 com.qualcomm.qti.callfeaturessetting	|	|	|
 |	/product/app/colorservice/colorservice.apk 	|	 com.qti.service.colorservice	|	|	|
