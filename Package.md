@@ -87,15 +87,15 @@
 |**com.android.internal.systemui.navbar.gestural_wide_back**<br/>*/product/overlay/NavigationBarModeGesturalWideBack/<br/>NavigationBarModeGesturalOverlayWideBack.apk*|****|****|
 |<br/>|<br/>|<br/>|
 |**Product/Priv-app目录**|||
-|**com.android.carrierconfig**<br/>*/product/priv-app/CarrierConfig/CarrierConfig.apk*|****|****|
-|**com.google.android.configupdater**<br/>*/product/priv-app/ConfigUpdater/ConfigUpdater.apk*|****|****|
-|**com.qti.dpmserviceapp**<br/>*/product/priv-app/dpmserviceapp/dpmserviceapp.apk*|****|****|
-|**com.android.emergency**<br/>*/product/priv-app/EmergencyInfo/EmergencyInfo.apk*|****|****|
-|**com.google.android.gms**<br/>*/product/priv-app/GmsCore/GmsCore.apk*|****|****|
-|**com.google.android.onetimeinitializer**<br/>*/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk*|****|****|
-|**com.google.android.partnersetup**<br/>*/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk*|****|****|
-|**com.google.android.gsf**<br/>*/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk*|****|****|
-|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|****|****|
+|**com.android.carrierconfig**<br/>*/product/priv-app/CarrierConfig/CarrierConfig.apk*|**运营商？**|**可禁用**|
+|**com.google.android.configupdater**<br/>*/product/priv-app/ConfigUpdater/ConfigUpdater.apk*|**未知？？**|**可禁用**|
+|**com.qti.dpmserviceapp**<br/>*/product/priv-app/dpmserviceapp/dpmserviceapp.apk*|**未知？？**|**可禁用**|
+|**com.android.emergency**<br/>*/product/priv-app/EmergencyInfo/EmergencyInfo.apk*|**紧急模式**|**可禁用**|
+|**com.google.android.gms**<br/>*/product/priv-app/GmsCore/GmsCore.apk*|**谷歌服务**|**可禁用**|
+|**com.google.android.onetimeinitializer**<br/>*/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk*|**谷歌相关**|**可禁用**|
+|**com.google.android.partnersetup**<br/>*/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk*|**谷歌相关**|**可禁用**|
+|**com.google.android.gsf**<br/>*/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk*|**谷歌相关**|**可禁用**|
+|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**需保留**|
 |**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|****|****|
 |**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|****|****|
 |**com.qualcomm.qti.seccamservice**<br/>*/product/priv-app/seccamservice/seccamservice.apk*|****|****|
