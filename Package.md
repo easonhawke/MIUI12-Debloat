@@ -96,13 +96,15 @@
 |**com.google.android.partnersetup**<br/>*/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk*|**谷歌相关**|**可禁用**|
 |**com.google.android.gsf**<br/>*/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk*|**谷歌相关**|**可禁用**|
 |**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**需保留**|
-|**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|****|****|
-|**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|****|****|
-|**com.qualcomm.qti.seccamservice**<br/>*/product/priv-app/seccamservice/seccamservice.apk*|****|****|
-|**com.android.settings**<br/>*/product/priv-app/Settings/Settings.apk*|****|****|
-|**com.android.settings.intelligence**<br/>*/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk*|****|****|
-|**com.android.storagemanager**<br/>*/product/priv-app/StorageManager/StorageManager.apk*|****|****|
-|**com.android.wallpapercropper**<br/>*/product/priv-app/WallpaperCropper/WallpaperCropper.apk*|****|****|
+|**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|**未知？？**|**可禁用**|
+|**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|**Simtoolkit**|**可禁用**|
+|**com.qualcomm.qti.seccamservice**<br/>*/product/priv-app/seccamservice/seccamservice.apk*|**相机安全**|**可禁用**|
+|**com.android.settings**<br/>*/product/priv-app/Settings/Settings.apk*|**系统设置**|**需保留**|
+|**com.android.settings.intelligence**<br/>*/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk*|**未知？？**|**可禁用**|
+|**com.android.storagemanager**<br/>*/product/priv-app/StorageManager/StorageManager.apk*|**存储管理**|**可禁用**|
+|**com.android.wallpapercropper**<br/>*/product/priv-app/WallpaperCropper/WallpaperCropper.apk*|**壁纸裁剪**|**可禁用**|
+|<br/>|<br/>|<br/>|
+|**System/App目录**|||
 |**com.xiaomi.aiasst.vision**<br/>*/system/app/AiAsstVision/AiAsstVision.apk*|****|****|
 |**com.dsi.ant.server**<br/>*/system/app/AntHalService/AntHalService.apk*|****|****|
 |**com.qualcomm.qti.autoregistration**<br/>*/system/app/AutoRegistration/AutoRegistration.apk*|****|****|
@@ -208,8 +210,12 @@
 |**com.xiaomi.xmsfkeeper**<br/>*/system/app/XMSFKeeper/XMSFKeeper.apk*|****|****|
 |**com.miui.translation.youdao**<br/>*/system/app/YouDaoEngine/YouDaoEngine.apk*|****|****|
 |**com.miui.zman**<br/>*/system/app/Zman/Zman.apk*|****|****|
+|<br/>|<br/>|<br/>|
+|**System/Framework目录**|||
 |**com.miui.rom**<br/>*/system/framework/framework-ext-res/framework-ext-res.apk*|****|****|
 |**android**<br/>*/system/framework/framework-res.apk*|****|****|
+|<br/>|<br/>|<br/>|
+|**System/Priv-App目录**|||
 |**com.lbe.security.miui**<br/>*/system/priv-app/AuthManager/AuthManager.apk*|****|****|
 |**com.miui.backup**<br/>*/system/priv-app/Backup/Backup.apk*|****|****|
 |**com.android.backupconfirm**<br/>*/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk*|****|****|
@@ -280,6 +286,8 @@
 |**com.android.vpndialogs**<br/>*/system/priv-app/VpnDialogs/VpnDialogs.apk*|****|****|
 |**com.qualcomm.wfd.service**<br/>*/system/priv-app/WfdService/WfdService.apk*|****|****|
 |**com.miui.yellowpage**<br/>*/system/priv-app/YellowPage/YellowPage.apk*|****|****|
+|<br/>|<br/>|<br/>|
+|**Vendor/App目录**|||
 |**vendor.qti.hardware.cacert.server**<br/>*/vendor/app/CACertService/CACertService.apk*|****|****|
 |**com.qualcomm.qti.cne**<br/>*/vendor/app/CneApp/CneApp.apk*|****|****|
 |**com.qualcomm.qti.gpudrivers.sm8250.api29**<br/>*/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/<br/>com.qualcomm.qti.gpudrivers.sm8250.api29.apk*|****|****|
@@ -291,6 +299,8 @@
 |**com.qualcomm.qti.qwes.AndroidService**<br/>*/vendor/app/QwesAndroidService/QwesAndroidService.apk*|****|****|
 |**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|****|****|
 |**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|****|****|
+|<br/>|<br/>|<br/>|
+|**Vendor/Overlay目录**|||
 |**android.aosp.overlay**<br/>*/vendor/overlay/AospFrameworkResOverlay.apk*|****|****|
 |**com.android.wifi.resources.xiaomi**<br/>*/vendor/overlay/AospWifiResOverlay.apk*|****|****|
 |**com.android.carrierconfig.overlay.common**<br/>*/vendor/overlay/CarrierConfigResCommon.apk*|****|****|
