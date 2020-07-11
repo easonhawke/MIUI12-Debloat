@@ -26,7 +26,7 @@
 |**com.qti.qualcomm.deviceinfo**<br/>*/product/app/DeviceInfo/DeviceInfo.apk*|**系统信息？**|**可禁用**|
 |**com.qualcomm.qti.devicestatisticsservice**<br/>*/product/app/DeviceStatisticsService/DeviceStatisticsService.apk*|**未知？**|**可禁用**|
 |**com.qualcomm.qti.dynamicddsservice**<br/>*/product/app/DynamicDDSService/DynamicDDSService.apk*|**未知？**|**可禁用**|
-|**com.qualcomm.embms**<br/>*/product/app/embms/embms.apk*|**Evolved Multimedia Broadcast and Multicast Service**|**可禁用**|
+|**com.qualcomm.embms**<br/>*/product/app/embms/embms.apk*|**LTE-B相关？**|**可禁用**|
 |**com.android.modulemetadata**<br/>*/product/app/ModuleMetadata/ModuleMetadata.apk*|**未知？**|**可禁用**|
 |**com.android.networkstack.overlay**<br/>*/product/app/NetworkStackOverlay/NetworkStackOverlay.apk*|**未知？**|**可禁用**|
 |**com.qualcomm.qti.performancemode**<br/>*/product/app/PerformanceMode/PerformanceMode.apk*|**性能模式**|**可禁用**|
