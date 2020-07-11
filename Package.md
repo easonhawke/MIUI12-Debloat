@@ -159,10 +159,10 @@
 |**com.miui.bugreport**<br/>*/system/app/MiuiBugReport/MiuiBugReport.apk*|**小米反馈**|**可禁用**|
 |**com.miui.contentcatcher**<br/>*/system/app/MiuiContentCatcher/MiuiContentCatcher.apk*|**应用扩展**|**可禁用**|
 |**com.miui.daemon**<br/>*/system/app/MiuiDaemon/MiuiDaemon.apk*|**小米服务**|**可禁用**|
-|**com.miui.system**<br/>*/system/app/miuisystem/miuisystem.apk*|****|****|
-|**miui.systemui.plugin**<br/>*/system/app/MiuiSystemUIPlugin/MiuiSystemUIPlugin.apk*|****|****|
-|**com.miui.vpnsdkmanager**<br/>*/system/app/MiuiVpnSdkManager/MiuiVpnSdkManager.apk*|****|****|
-|**com.miui.miwallpaper**<br/>*/system/app/MiWallpaper/MiWallpaper.apk*|****|****|
+|**com.miui.system**<br/>*/system/app/miuisystem/miuisystem.apk*|**小米系统**|**可保留**|
+|**miui.systemui.plugin**<br/>*/system/app/MiuiSystemUIPlugin/MiuiSystemUIPlugin.apk*|**米UI插件**|**可保留**|
+|**com.miui.vpnsdkmanager**<br/>*/system/app/MiuiVpnSdkManager/MiuiVpnSdkManager.apk*|**小米VPN**|**可禁用**|
+|**com.miui.miwallpaper**<br/>*/system/app/MiWallpaper/MiWallpaper.apk*|**小米壁纸**|**可禁用**|
 |**com.xiaomi.wifidaemon**<br/>*/system/app/miwlandaemon/miwlandaemon.apk*|****|****|
 |**com.xiaomi.mtb**<br/>*/system/app/ModemTestBox/ModemTestBox.apk*|****|****|
 |**com.miui.nextpay**<br/>*/system/app/NextPay/NextPay.apk*|****|****|
