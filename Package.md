@@ -16,12 +16,12 @@
 |**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**小米天气**|**可禁用**|
 |<br/>|<br/>|<br/>|
 |**Product/App目录**|||
-|**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast相关**|**可禁用**|
+|**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast**|**可禁用**|
 |**com.qualcomm.qti.callfeaturessetting**<br/>*/product/app/CallFeaturesSetting/CallFeaturesSetting.apk*|**电话？？**|**可禁用**|
 |**com.qti.service.colorservice**<br/>*/product/app/colorservice/colorservice.apk*|**色调？？**|**可禁用**|
 |**com.qualcomm.qti.services.secureui**<br/>*/product/app/com.qualcomm.qti.services.secureui/<br/>com.qualcomm.qti.services.secureui.apk*|**未知？？**|**可禁用**|
 |**com.qualcomm.qti.services.systemhelper**<br/>*/product/app/com.qualcomm.qti.services.systemhelper/<br/>com.qualcomm.qti.services.systemhelper.apk*|**未知？？**|**可禁用**|
-|**com.qti.confuridialer**<br/>*/product/app/ConfURIDialer/ConfURIDialer.apk*|**SIP/VoIP相关**|**可禁用**|
+|**com.qti.confuridialer**<br/>*/product/app/ConfURIDialer/ConfURIDialer.apk*|**SIP/VoIP**|**可禁用**|
 |**com.qti.qualcomm.datastatusnotification**<br/>*/product/app/datastatusnotification/datastatusnotification.apk*|**未知？？**|**可禁用**|
 |**com.qti.qualcomm.deviceinfo**<br/>*/product/app/DeviceInfo/DeviceInfo.apk*|**系统信息**|**可禁用**|
 |**com.qualcomm.qti.devicestatisticsservice**<br/>*/product/app/DeviceStatisticsService/DeviceStatisticsService.apk*|**未知？？**|**可禁用**|
@@ -35,16 +35,16 @@
 |**com.qti.snapdragon.qdcm_ff**<br/>*/product/app/QdcmFF/QdcmFF.apk*|**未知？？**|**可禁用**|
 |**com.qualcomm.qti.qtisystemservice**<br/>*/product/app/QtiSystemService/QtiSystemService.apk*|**系统相关**|**可保留**|
 |**com.qualcomm.qti.telephonyservice**<br/>*/product/app/QtiTelephonyService/QtiTelephonyService.apk*|**电话相关**|**需保留**|
-|**com.qualcomm.qti.remoteSimlockAuth**<br/>*/product/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk*|**Sim相关？？**|**可禁用**|
-|**com.qualcomm.qti.uim**<br/>*/product/app/remotesimlockservice/remotesimlockservice.apk*|**Sim相关？？**|**可禁用**|
+|**com.qualcomm.qti.remoteSimlockAuth**<br/>*/product/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk*|**Sim相关？**|**可禁用**|
+|**com.qualcomm.qti.uim**<br/>*/product/app/remotesimlockservice/remotesimlockservice.apk*|**Sim相关？**|**可禁用**|
 |**com.google.android.marvin.talkback**<br/>*/product/app/talkback/talkback.apk*|**无障碍服务**|**可禁用**|
-|**com.qualcomm.qti.uceShimService**<br/>*/product/app/uceShimService/uceShimService.apk*|**RCSService RCS**|**可禁用**|
+|**com.qualcomm.qti.uceShimService**<br/>*/product/app/uceShimService/uceShimService.apk*|**RCSService**|**可禁用**|
 |**com.qualcomm.qti.uimGbaApp**<br/>*/product/app/uimgbaservice/uimgbaservice.apk*|**未知？？**|**可禁用**|
 |**com.qualcomm.qti.lpa**<br/>*/product/app/uimlpaservice/uimlpaservice.apk*|**未知？？**|**可禁用**|
 |**com.qualcomm.uimremoteclient**<br/>*/product/app/uimremoteclient/uimremoteclient.apk*|**未知？？**|**可禁用**|
 |**com.qualcomm.uimremoteserver**<br/>*/product/app/uimremoteserver/uimremoteserver.apk*|**未知？？**|**可禁用**|
 |**com.google.android.webview**<br/>*/product/app/WebViewGoogle/WebViewGoogle.apk*|**WebView服务**|**可保留**|
-|**com.qti.xdivert**<br/>*/product/app/xdivert/xdivert.apk*|**Smart-Divert通话转移？**|**可禁用**|
+|**com.qti.xdivert**<br/>*/product/app/xdivert/xdivert.apk*|**Smart-Divert通话转移**|**可禁用**|
 |<br/>|<br/>|<br/>|
 |**Product/Overlay目录**|||
 |**com.android.theme.color.black**<br/>*/product/overlay/AccentColorBlack/AccentColorBlackOverlay.apk*|****|****|
