@@ -198,7 +198,7 @@
 |**com.google.android.documentsui**<br/>*/system/priv-app/GoogleDocumentsUIPrebuilt/GoogleDocumentsUIPrebuilt.apk*|**谷歌文档**|**可禁用**|
 |**com.google.android.ext.services**<br/>*/system/priv-app/GoogleExtServicesPrebuilt/GoogleExtServicesPrebuilt.apk*|**谷歌服务**|**可禁用**|
 |**com.android.incallui**<br/>*/system/priv-app/InCallUI/InCallUI.apk*|**来电界面**|**需保留**|
-|**com.android.networkstack.inprocess**<br/>*/system/priv-app/InProcessNetworkStack/InProcessNetworkStack.apk*|**无线认证？**|**可禁用**|
+|**com.android.networkstack.inprocess**<br/>*/system/priv-app/InProcessNetworkStack/InProcessNetworkStack.apk*|**进程处理？**|**需保留**|
 |**com.android.inputdevices**<br/>*/system/priv-app/InputDevices/InputDevices.apk*|**输入法选择**|**可禁用**|
 |**com.android.localtransport**<br/>*/system/priv-app/LocalTransport/LocalTransport.apk*|**本地传输？**|**可禁用**|
 |**com.android.managedprovisioning**<br/>*/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk*|**工作设置**|**可禁用**|
