@@ -81,7 +81,7 @@
 |**com.bsp.catchlog**<br/>*/system/app/CatchLog/CatchLog.apk*|**日志信息**|**可禁用**|
 |**com.android.certinstaller**<br/>*/system/app/CertInstaller/CertInstaller.apk*|**证书安装**|**可禁用**|
 |**com.miui.cit**<br/>*/system/app/Cit/Cit.apk*|**工程模式**|**可禁用**|
-|**com.miui.cloudservice**<br/>*/system/app/CloudService/CloudService.apk*|**小米云服务**|**可保留**|
+|**com.miui.cloudservice**<br/>*/system/app/CloudService/CloudService.apk*|**小米云服务**|**可禁用**|
 |**com.miui.qr**<br/>*/system/app/com.miui.qr/com.miui.qr.apk*|**二维码？**|**可禁用**|
 |**com.android.companiondevicemanager**<br/>*/system/app/CompanionDeviceManager/CompanionDeviceManager.apk*|**配套设备**|**可禁用**|
 |**com.xiaomi.bsp.gps.nps**<br/>*/system/app/ConnectivityNPI/ConnectivityNPI.apk*|**卫星定位**|**可保留**|
