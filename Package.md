@@ -95,7 +95,7 @@
 |**com.goodix.fingerprint.setting**<br/>*/system/app/GFDelmarSetting/GFDelmarSetting.apk*|**Goodix指纹**|**可禁用+.1**|
 |**com.google.android.ext.shared**<br/>*/system/app/GoogleExtShared/GoogleExtShared.apk*|**谷歌相关**|**可禁用**|
 |**com.google.android.printservice.recommendation**<br/>*/system/app/GooglePrintRecommendationService/<br/>GooglePrintRecommendationService.apk*|**谷歌打印**|**可禁用**|
-|**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|**安全组件**|**可禁用<br/>禁用无法安装应用可酷安绕过**|
+|**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|**安全组件**|**可禁用<br/>禁用无法安装应用**|
 |**com.android.htmlviewer**<br/>*/system/app/HTMLViewer/HTMLViewer.apk*|**Html查看**|**可禁用**|
 |**com.miui.hybrid.accessory**<br/>*/system/app/HybridAccessory/HybridAccessory.apk*|**快应用**|**可禁用**|
 |**com.miui.hybrid**<br/>*/system/app/HybridPlatform/HybridPlatform.apk*|**快应用平台**|**可禁用**|
@@ -138,8 +138,8 @@
 |**com.android.printspooler**<br/>*/system/app/PrintSpooler/PrintSpooler.apk*|**打印服务**|**可禁用**|
 |**com.qualcomm.qti.qcolor**<br/>*/system/app/QColor/QColor.apk*|**未知？？**|**可禁用**|
 |**com.android.se**<br/>*/system/app/SecureElement/SecureElement.apk*|**未知？？**|**可禁用+.1**|
-|**com.miui.securityadd**<br/>*/system/app/securityadd/securityadd.apk*|**服务组件**|**可禁用<br/>禁用后截屏无法编辑**|
-|**com.miui.securitycore**<br/>*/system/app/SecurityCoreAdd/SecurityCoreAdd.apk*|**应用分身**|**可禁用<br/>禁用后无法创建分身应用**|
+|**com.miui.securityadd**<br/>*/system/app/securityadd/securityadd.apk*|**服务组件**|**可禁用<br/>禁用截屏无法编辑**|
+|**com.miui.securitycore**<br/>*/system/app/SecurityCoreAdd/SecurityCoreAdd.apk*|**应用分身**|**可禁用<br/>禁用无法创建分身**|
 |**com.miui.securityinputmethod**<br/>*/system/app/SecurityInputMethod/SecurityInputMethod.apk*|**安全键盘**|**可禁用**|
 |**com.android.simappdialog**<br/>*/system/app/SimAppDialog/SimAppDialog.apk*|**SIM相关**|**可禁用**|
 |**com.qualcomm.qti.simcontacts**<br/>*/system/app/SimContact/SimContact.apk*|**SIM联系人**|**可禁用**|
