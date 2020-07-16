@@ -92,7 +92,7 @@
 |**com.android.fileexplorer**<br/>*/system/app/FileExplorer/FileExplorer.apk*|**文件管理**|**可禁用**|
 |**com.miui.phrase**<br/>*/system/app/FrequentPhrase/FrequentPhrase.apk*|**常用语**|**可禁用**|
 |**com.xiaomi.location.fused**<br/>*/system/app/FusedLocationProvider/FusedLocationProvider.apk*|**融合位置**|**可保留**|
-|**com.goodix.fingerprint.setting**<br/>*/system/app/GFDelmarSetting/GFDelmarSetting.apk*|**Goodix指纹**|**可禁用**|
+|**com.goodix.fingerprint.setting**<br/>*/system/app/GFDelmarSetting/GFDelmarSetting.apk*|**Goodix指纹**|**可禁用+.1**|
 |**com.google.android.ext.shared**<br/>*/system/app/GoogleExtShared/GoogleExtShared.apk*|**谷歌相关**|**可禁用**|
 |**com.google.android.printservice.recommendation**<br/>*/system/app/GooglePrintRecommendationService/<br/>GooglePrintRecommendationService.apk*|**谷歌打印**|**可禁用**|
 |**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|**安全组件**|**可禁用<br/>禁用无法安装应用可酷安绕过**|
@@ -117,7 +117,7 @@
 |**com.miui.face**<br/>*/system/app/MiuiBiometric/MiuiBiometric.apk*|**人脸认证**|**可禁用**|
 |**com.xiaomi.bluetooth**<br/>*/system/app/MiuiBluetooth/MiuiBluetooth.apk*|**小米蓝牙**|**可保留**|
 |**com.miui.bugreport**<br/>*/system/app/MiuiBugReport/MiuiBugReport.apk*|**小米反馈**|**可禁用**|
-|**com.miui.contentcatcher**<br/>*/system/app/MiuiContentCatcher/MiuiContentCatcher.apk*|**应用扩展**|**可禁用**|
+|**com.miui.contentcatcher**<br/>*/system/app/MiuiContentCatcher/MiuiContentCatcher.apk*|**应用扩展**|**可禁用+.1**|
 |**com.miui.daemon**<br/>*/system/app/MiuiDaemon/MiuiDaemon.apk*|**小米服务**|**可禁用**|
 |**com.miui.system**<br/>*/system/app/miuisystem/miuisystem.apk*|**小米系统**|**可保留**|
 |**miui.systemui.plugin**<br/>*/system/app/MiuiSystemUIPlugin/MiuiSystemUIPlugin.apk*|**米UI插件**|**可保留**|
@@ -127,7 +127,7 @@
 |**com.xiaomi.mtb**<br/>*/system/app/ModemTestBox/ModemTestBox.apk*|**调试？？**|**可禁用**|
 |**com.miui.nextpay**<br/>*/system/app/NextPay/NextPay.apk*|**小米支付**|**可禁用**|
 |**com.miui.notification**<br/>*/system/app/NotificationCenter/NotificationCenter.apk*|**通知管理**|**需保留**|
-|**com.android.nfc**<br/>*/system/app/NQNfcNci/NQNfcNci.apk*|**NFC服务**|**可禁用**|
+|**com.android.nfc**<br/>*/system/app/NQNfcNci/NQNfcNci.apk*|**NFC服务**|**可禁用+.1**|
 |**com.xiaomi.oobhelper**<br/>*/system/app/OOBHelper/OOBHelper.apk*|**未知？？**|**可禁用**|
 |**com.android.hotspot2**<br/>*/system/app/OsuLogin/OsuLogin.apk*|**热点相关**|**可禁用**|
 |**com.android.pacprocessor**<br/>*/system/app/PacProcessor/PacProcessor.apk*|**自动代理？**|**可禁用**|
@@ -167,7 +167,7 @@
 |**com.xiaomi.xmsf**<br/>*/system/app/XiaomiServiceFramework/XiaomiServiceFramework.apk*|**小米框架**|**可保留**|
 |**com.xiaomi.simactivate.service**<br/>*/system/app/XiaomiSimActivateService/XiaomiSimActivateService.apk*|**小米激活**|**可禁用**|
 |**com.miui.translation.xmcloud**<br/>*/system/app/XMCloudEngine/XMCloudEngine.apk*|**小米翻译**|**可禁用**|
-|**com.xiaomi.xmsfkeeper**<br/>*/system/app/XMSFKeeper/XMSFKeeper.apk*|**框架保持**|**可禁用**|
+|**com.xiaomi.xmsfkeeper**<br/>*/system/app/XMSFKeeper/XMSFKeeper.apk*|**框架保持**|**可禁用+.1**|
 |**com.miui.translation.youdao**<br/>*/system/app/YouDaoEngine/YouDaoEngine.apk*|**有道翻译**|**可禁用**|
 |**com.miui.zman**<br/>*/system/app/Zman/Zman.apk*|**安全分享**|**可禁用**|
 |<br/>|<br/>|<br/>|
@@ -257,7 +257,7 @@
 |**vendor.qti.iwlan**<br/>*/vendor/app/IWlanService/IWlanService.apk*|**无线相关？**|**可禁用**|
 |**com.xiaomi.migameservice**<br/>*/vendor/app/MiGameService/MiGameService.apk*|**游戏高能**|**可禁用**|
 |**com.qualcomm.qti.qwes.AndroidService**<br/>*/vendor/app/QwesAndroidService/QwesAndroidService.apk*|**未知？？**|**可禁用**|
-|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**微信支付？**|**可禁用**|
+|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**微信支付？**|**可禁用+.1**|
 |**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|**时间服务**|**可保留**|
 |<br/>|<br/>|<br/>|
 |**Vendor/Overlay目录**|||
