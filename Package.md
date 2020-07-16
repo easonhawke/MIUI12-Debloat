@@ -123,7 +123,7 @@
 |**miui.systemui.plugin**<br/>*/system/app/MiuiSystemUIPlugin/MiuiSystemUIPlugin.apk*|**米UI插件**|**可保留**|
 |**com.miui.vpnsdkmanager**<br/>*/system/app/MiuiVpnSdkManager/MiuiVpnSdkManager.apk*|**小米VPN**|**可禁用**|
 |**com.miui.miwallpaper**<br/>*/system/app/MiWallpaper/MiWallpaper.apk*|**小米壁纸**|**可禁用**|
-|**com.xiaomi.wifidaemon**<br/>*/system/app/miwlandaemon/miwlandaemon.apk*|**无线相关**|**可禁用**|
+|**com.xiaomi.wifidaemon**<br/>*/system/app/miwlandaemon/miwlandaemon.apk*|**无线相关**|**可禁用+.1**|
 |**com.xiaomi.mtb**<br/>*/system/app/ModemTestBox/ModemTestBox.apk*|**调试？？**|**可禁用**|
 |**com.miui.nextpay**<br/>*/system/app/NextPay/NextPay.apk*|**小米支付**|**可禁用**|
 |**com.miui.notification**<br/>*/system/app/NotificationCenter/NotificationCenter.apk*|**通知管理**|**需保留**|
