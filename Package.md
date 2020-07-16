@@ -100,7 +100,7 @@
 |**com.miui.hybrid.accessory**<br/>*/system/app/HybridAccessory/HybridAccessory.apk*|**快应用**|**可禁用**|
 |**com.miui.hybrid**<br/>*/system/app/HybridPlatform/HybridPlatform.apk*|**快应用平台**|**可禁用**|
 |**com.xiaomi.joyose**<br/>*/system/app/Joyose/Joyose.apk*|**广告统计**|**可禁用**|
-|**com.android.keychain**<br/>*/system/app/KeyChain/KeyChain.apk*|**密钥链**|**可保留**|
+|**com.android.keychain**<br/>*/system/app/KeyChain/KeyChain.apk*|**密钥链**|**可禁用**|
 |**com.miui.translation.kingsoft**<br/>*/system/app/KSICibaEngine/KSICibaEngine.apk*|**金山翻译**|**可禁用**|
 |**com.android.wallpaper.livepicker**<br/>*/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk*|**动态壁纸**|**可禁用**|
 |**com.xiaomi.metoknlp**<br/>*/system/app/MetokNLP/MetokNLP.apk*|**网络位置**|**可保留**|
@@ -155,7 +155,7 @@
 |**com.miui.tsmclient**<br/>*/system/app/TSMClient/TSMClient.apk*|**小米智能卡**|**可禁用**|
 |**com.unionpay.tsmservice.mi**<br/>*/system/app/UPTsmService/UPTsmService.apk*|**银联组件**|**可禁用**|
 |**com.miui.voiceassist**<br/>*/system/app/VoiceAssist/VoiceAssist.apk*|**小爱同学**|**可禁用**|
-|**com.miui.voicetrigger**<br/>*/system/app/VoiceTrigger/VoiceTrigger.apk*|**语音唤醒**|**可禁用**|
+|**com.miui.voicetrigger**<br/>*/system/app/VoiceTrigger/VoiceTrigger.apk*|**语音唤醒**|**可禁用+.1**|
 |**com.miui.vsimcore**<br/>*/system/app/VsimCore/VsimCore.apk*|**漫游组件**|**可禁用**|
 |**com.android.wallpaperbackup**<br/>*/system/app/WallpaperBackup/WallpaperBackup.apk*|**壁纸备份**|**可禁用**|
 |**com.wapi.wapicertmanage**<br/>*/system/app/WapiCertManage/WapiCertManage.apk*|**WAPI证书**|**可禁用**|
@@ -193,7 +193,7 @@
 |**com.android.providers.downloads.ui**<br/>*/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk*|**下载管理**|**可禁用**|
 |**com.android.dynsystem**<br/>*/system/priv-app/DynamicSystemInstallationService/<br/>DynamicSystemInstallationService.apk*|**系统安装？**|**可禁用**|
 |**com.android.externalstorage**<br/>*/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk*|**外部存储**|**可禁用**|
-|**com.xiaomi.finddevice**<br/>*/system/priv-app/FindDevice/FindDevice.apk*|**查找手机**|**需保留**|
+|**com.xiaomi.finddevice**<br/>*/system/priv-app/FindDevice/FindDevice.apk*|**查找手机**|**可禁用+.1**|
 |**com.android.location.fused**<br/>*/system/priv-app/FusedLocation/FusedLocation.apk*|**一体化位置**|**可保留**|
 |**com.google.android.documentsui**<br/>*/system/priv-app/GoogleDocumentsUIPrebuilt/GoogleDocumentsUIPrebuilt.apk*|**谷歌文档**|**可禁用**|
 |**com.google.android.ext.services**<br/>*/system/priv-app/GoogleExtServicesPrebuilt/GoogleExtServicesPrebuilt.apk*|**谷歌服务**|**可禁用**|
@@ -236,7 +236,7 @@
 |**Simplicity.LT.Tools**<br/>*/system/priv-app/Simplicity/Simplicity.apk*|**官改工具**|**可保留**|
 |**com.android.soundrecorder**<br/>*/system/priv-app/SoundRecorder/SoundRecorder.apk*|**米录音机**|**可禁用**|
 |**com.android.statementservice**<br/>*/system/priv-app/StatementService/StatementService.apk*|**应用跳转**|**可保留**|
-|**com.mobiletools.systemhelper**<br/>*/system/priv-app/SystemHelper/SystemHelper.apk*|**未知？？**|**可禁用**|
+|**com.mobiletools.systemhelper**<br/>*/system/priv-app/SystemHelper/SystemHelper.apk*|**未知？？**|**可禁用+.1**|
 |**com.android.apps.tag**<br/>*/system/priv-app/Tag/Tag.apk*|**标签工具**|**可禁用**|
 |**com.android.server.telecom**<br/>*/system/priv-app/Telecom/Telecom.apk*|**通话管理**|**需保留**|
 |**com.android.providers.telephony**<br/>*/system/priv-app/TelephonyProvider/TelephonyProvider.apk*|**电话存储**|**需保留**|
