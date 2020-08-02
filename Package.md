@@ -60,7 +60,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.google.android.onetimeinitializer**<br/>*/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.partnersetup**<br/>*/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.gsf**<br/>*/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk*|**谷歌相关**|**禁用**|
-|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用可能导致状态栏出现电话+X号**|
+|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用导致状态栏出现错误符号**|
 |**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|**未知？？**|**禁用**|
 |**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|**手机信号**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.qti.seccamservice**<br/>*/product/priv-app/seccamservice/seccamservice.apk*|**相机安全**|**禁用**|
