@@ -38,7 +38,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.dreams.phototable**<br/>*/product/app/PhotoTable/PhotoTable.apk*|**照片屏保**|**禁用**|
 |**com.qualcomm.qti.poweroffalarm**<br/>*/product/app/PowerOffAlarm/PowerOffAlarm.apk*|**关机闹钟**|**禁用**|
 |**com.qti.snapdragon.qdcm_ff**<br/>*/product/app/QdcmFF/QdcmFF.apk*|**未知？？**|**禁用**|
-|**com.qualcomm.qti.qtisystemservice**<br/>*/product/app/QtiSystemService/QtiSystemService.apk*|**系统相关**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.qualcomm.qti.qtisystemservice**<br/>*/product/app/QtiSystemService/QtiSystemService.apk*|**系统相关**|**禁用**|
 |**com.qualcomm.qti.telephonyservice**<br/>*/product/app/QtiTelephonyService/QtiTelephonyService.apk*|**电话相关**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.qti.remoteSimlockAuth**<br/>*/product/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk*|**Sim相关？**|**禁用**|
 |**com.qualcomm.qti.uim**<br/>*/product/app/remotesimlockservice/remotesimlockservice.apk*|**Sim相关？**|**禁用**|
@@ -60,7 +60,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.google.android.onetimeinitializer**<br/>*/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.partnersetup**<br/>*/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.gsf**<br/>*/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk*|**谷歌相关**|**禁用**|
-|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用出现状态错误**|
+|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**禁用**|
 |**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|**未知？？**|**禁用**|
 |**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|**手机信号**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.qti.seccamservice**<br/>*/product/priv-app/seccamservice/seccamservice.apk*|**相机安全**|**禁用**|
@@ -184,7 +184,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.lbe.security.miui**<br/>*/system/priv-app/AuthManager/AuthManager.apk*|**权限管理**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.backup**<br/>*/system/priv-app/Backup/Backup.apk*|**备份工具**|**禁用**|
 |**com.android.backupconfirm**<br/>*/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk*|**备份确认**|**禁用**|
-|**com.qualcomm.location**<br/>*/system/priv-app/beyondGnssService/beyondGnssService.apk*|**位置服务**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.qualcomm.location**<br/>*/system/priv-app/beyondGnssService/beyondGnssService.apk*|**位置服务**|**禁用**|
 |**com.android.providers.blockednumber**<br/>*/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk*|**屏蔽号码**|**禁用+1**|
 |**com.android.providers.calendar**<br/>*/system/priv-app/CalendarProvider/CalendarProvider.apk*|**小米日历**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.calllogbackup**<br/>*/system/priv-app/CallLogBackup/CallLogBackup.apk*|**通话备份**|**禁用+1**|
@@ -215,7 +215,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.miui.aod**<br/>*/system/priv-app/MiuiAod/MiuiAod.apk*|**万象息屏**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用后无法息屏解锁**|
 |**com.android.camera**<br/>*/system/priv-app/MiuiCamera/MiuiCamera.apk*|**小米相机**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.extraphoto**<br/>*/system/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk*|**相机标定**|**禁用**|
-|**com.miui.freeform**<br/>*/system/priv-app/MiuiFreeformService/MiuiFreeformService.apk*|**自由窗口**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.miui.freeform**<br/>*/system/priv-app/MiuiFreeformService/MiuiFreeformService.apk*|**自由窗口**|**禁用**|
 |**com.miui.gallery**<br/>*/system/priv-app/MiuiGallery/MiuiGallery.apk*|**小米相册**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.home**<br/>*/system/priv-app/MiuiHome/MiuiHome.apk*|**小米桌面**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.packageinstaller**<br/>*/system/priv-app/MiuiPackageInstaller/MiuiPackageInstaller.apk*|**应用包管理**|**保留![image](https://placehold.it/8/f03c15/)**|
@@ -240,7 +240,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.shell**<br/>*/system/priv-app/Shell/Shell.apk*|**Shell工具**|**禁用**|
 |**Simplicity.LT.Tools**<br/>*/system/priv-app/Simplicity/Simplicity.apk*|**官改工具**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.soundrecorder**<br/>*/system/priv-app/SoundRecorder/SoundRecorder.apk*|**米录音机**|**禁用**|
-|**com.android.statementservice**<br/>*/system/priv-app/StatementService/StatementService.apk*|**应用跳转**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.android.statementservice**<br/>*/system/priv-app/StatementService/StatementService.apk*|**应用跳转？**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.mobiletools.systemhelper**<br/>*/system/priv-app/SystemHelper/SystemHelper.apk*|**未知？？**|**禁用+1**|
 |**com.android.apps.tag**<br/>*/system/priv-app/Tag/Tag.apk*|**标签工具**|**禁用**|
 |**com.android.server.telecom**<br/>*/system/priv-app/Telecom/Telecom.apk*|**通话管理**|**保留![image](https://placehold.it/8/f03c15/)**|
@@ -248,14 +248,14 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.phone**<br/>*/system/priv-app/TeleService/TeleService.apk*|**电话服务**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.providers.userdictionary**<br/>*/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk*|**用户词典**|**禁用+1**|
 |**com.pittvandewitt.viperfx**<br/>*/system/priv-app/ViPERFX/ViPERFX.apk*|**Viper蝰蛇**|**禁用**|
-|**com.android.vpndialogs**<br/>*/system/priv-app/VpnDialogs/VpnDialogs.apk*|**代理工具**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.android.vpndialogs**<br/>*/system/priv-app/VpnDialogs/VpnDialogs.apk*|**VPN工具**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.wfd.service**<br/>*/system/priv-app/WfdService/WfdService.apk*|**未知？？**|**禁用**|
 |**com.miui.yellowpage**<br/>*/system/priv-app/YellowPage/YellowPage.apk*|**生活黄页**|**禁用**|
 |<br/>|<br/>|<br/>|
 |**Vendor/App目录**|||
 |**vendor.qti.hardware.cacert.server**<br/>*/vendor/app/CACertService/CACertService.apk*|**证书服务**|**禁用+1**|
 |**com.qualcomm.qti.cne**<br/>*/vendor/app/CneApp/CneApp.apk*|**未知？？**|**禁用+1**|
-|**com.qualcomm.qti.gpudrivers.sm8250.api29**<br/>*/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/<br/>com.qualcomm.qti.gpudrivers.sm8250.api29.apk*|**GPU驱动**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.qualcomm.qti.gpudrivers.sm8250.api29**<br/>*/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/<br/>com.qualcomm.qti.gpudrivers.sm8250.api29.apk*|**GPU驱动**|**禁用**|
 |**org.dtx.aidl.manager**<br/>*/vendor/app/DtxService/DtxService.apk*|**安卓接口语言**|**禁用+1**|
 |**com.rongcard.eid**<br/>*/vendor/app/EidService/EidService.apk*|**身份标识？**|**禁用**|
 |**com.android.systemui.icon.overlay**<br/>*/vendor/app/IconShapeOverlay/IconShapeOverlay.apk*|**未知Overlay？**|**禁用**|
@@ -263,7 +263,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.xiaomi.migameservice**<br/>*/vendor/app/MiGameService/MiGameService.apk*|**游戏高能**|**禁用**|
 |**com.qualcomm.qti.qwes.AndroidService**<br/>*/vendor/app/QwesAndroidService/QwesAndroidService.apk*|**未知？？**|**禁用**|
 |**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**微信支付？**|**禁用+1**|
-|**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|**时间服务**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|**时间服务**|**禁用**|
 |<br/>|<br/>|<br/>|
 |**Vendor/Overlay目录**|||
 |**android.aosp.overlay**<br/>*/vendor/overlay/AospFrameworkResOverlay.apk*|**Overlay资源**|**禁用**|
