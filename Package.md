@@ -1,21 +1,22 @@
 本文档正在施工中<br/>
-Ps：文档中如有谬误之处，或您有什么更好的见解，请tg@easonn或者邮件easonn@88.com。<br/>
-Ps：文档中禁用+1是在禁用基础上，更改apk后缀为apk1，不更改可能禁用也无法压制其启动。<br/>
+Ps：文档中的保留/禁用只能作为参考使用，本人不能也无法对您自己的操作负责。<br/>
+Ps：文档中如有错误，或您知道某个应用更详细的信息，请tg@easonn或者邮件easonn@88.com。<br/>
+Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不更改可能禁用也无法压制其启动。<br/>
 
 
 -----
 |**APK包**|**备注**|**建议**|
 |---|---|---|
 |**Data/App目录**|||
-|**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**小米计算**|**保留**|
-|**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**小米清理**|**保留**|
-|**com.android.browser**<br/>*/data/app/com.android.browser-MndfuEm3R4JVwfyfDoWlyQ==/base.apk*|**米浏览器**|**禁用**|
+|**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**计算器**|**保留**|
+|**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**清理大师**|**保留**|
+|**com.android.browser**<br/>*/data/app/com.android.browser-MndfuEm3R4JVwfyfDoWlyQ==/base.apk*|**浏览器**|**禁用**|
 |**com.android.calendar**<br/>*/data/app/com.android.calendar-hpxMeSYBsZOK4AiVx2W7PA==/base.apk*|**小米日历**|**保留**|
 |**com.android.vending**<br/>*/data/app/com.android.vending-hwdg-5YnH4mHJ2cU9VYDow==/base.apk*|**谷歌服务**|**禁用**|
 |**com.miui.analytics**<br/>*/data/app/com.miui.analytics-KheVa8Qecno57TC9bINl3w==/base.apk*|**小米统计**|**禁用**|
 |**com.xiaomi.market**<br/>*/data/app/com.xiaomi.market-rsIZetyyfu24O0njkRrqew==/base.apk*|**小米市场**|**禁用**|
 |**com.xiaomi.ugd**<br/>*/data/app/com.xiaomi.ugd-0p5cxbC17kqysh8iMP2f7g==/base.apk*|**GPU驱动**|**禁用**|
-|**com.miui.compass**<br/>*/data/app/MiuiCompass/MiuiCompass.apk*|**米指南针**|**禁用**|
+|**com.miui.compass**<br/>*/data/app/MiuiCompass/MiuiCompass.apk*|**指南针**|**禁用**|
 |**com.miui.notes**<br/>*/data/app/Notes/Notes.apk*|**小米便签**|**保留**|
 |**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**小米天气**|**保留**|
 |<br/>|<br/>|<br/>|
