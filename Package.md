@@ -8,7 +8,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**APK包**|**备注**|**建议**|
 |---|---|---|
 |**Data/App目录**|||
-|**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**计算器**|**保留#f03c15**|
+|**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**计算器**|**保留'#f03c15'**|
 |**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**清理大师**|**保留**|
 |**com.android.browser**<br/>*/data/app/com.android.browser-MndfuEm3R4JVwfyfDoWlyQ==/base.apk*|**浏览器**|**禁用**|
 |**com.android.calendar**<br/>*/data/app/com.android.calendar-hpxMeSYBsZOK4AiVx2W7PA==/base.apk*|**小米日历**|**保留**|
