@@ -49,7 +49,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.qualcomm.uimremoteclient**<br/>*/product/app/uimremoteclient/uimremoteclient.apk*|**未知？？**|**禁用+1**|
 |**com.qualcomm.uimremoteserver**<br/>*/product/app/uimremoteserver/uimremoteserver.apk*|**未知？？**|**禁用+1**|
 |**com.google.android.webview**<br/>*/product/app/WebViewGoogle/WebViewGoogle.apk*|**WebView服务**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.qti.xdivert**<br/>*/product/app/xdivert/xdivert.apk*|**Smart-Divert通话转移**|**禁用+1**|
+|**com.qti.xdivert**<br/>*/product/app/xdivert/xdivert.apk*|**XDivert通话转移？**|**禁用+1**|
 |<br/>|<br/>|<br/>|
 |**Product/Priv-app目录**|||
 |**com.android.carrierconfig**<br/>*/product/priv-app/CarrierConfig/CarrierConfig.apk*|**运营商？**|**禁用**|
@@ -60,7 +60,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.google.android.onetimeinitializer**<br/>*/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.partnersetup**<br/>*/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.gsf**<br/>*/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk*|**谷歌相关**|**禁用**|
-|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**保留![image](https://placehold.it/8/f03c15/)<br/>在我这里禁用导致状态栏出现电话+X号**|
+|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**IP Multimedia Subsystem**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用可能导致状态栏出现电话+X号**|
 |**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|**未知？？**|**禁用**|
 |**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|**手机信号**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.qti.seccamservice**<br/>*/product/priv-app/seccamservice/seccamservice.apk*|**相机安全**|**禁用**|
@@ -100,7 +100,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.goodix.fingerprint.setting**<br/>*/system/app/GFDelmarSetting/GFDelmarSetting.apk*|**Goodix指纹**|**禁用+1**|
 |**com.google.android.ext.shared**<br/>*/system/app/GoogleExtShared/GoogleExtShared.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.printservice.recommendation**<br/>*/system/app/GooglePrintRecommendationService/<br/>GooglePrintRecommendationService.apk*|**谷歌打印**|**禁用**|
-|**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|**安全组件**|**禁用<br/>禁用无法安装应用**|
+|**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|**安全组件**|**禁用<br/>禁用后可用酷安安装应用**|
 |**com.android.htmlviewer**<br/>*/system/app/HTMLViewer/HTMLViewer.apk*|**Html查看**|**禁用**|
 |**com.miui.hybrid.accessory**<br/>*/system/app/HybridAccessory/HybridAccessory.apk*|**快应用**|**禁用**|
 |**com.miui.hybrid**<br/>*/system/app/HybridPlatform/HybridPlatform.apk*|**快应用平台**|**禁用**|
