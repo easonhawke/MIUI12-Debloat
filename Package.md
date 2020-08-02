@@ -111,12 +111,12 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.xiaomi.metoknlp**<br/>*/system/app/MetokNLP/MetokNLP.apk*|**网络位置**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.xiaomi.mi_connect_service**<br/>*/system/app/mi_connect_service/mi_connect_service.apk*|**小米互联**|**禁用**|
 |**com.xiaomi.miaudiovisual**<br/>*/system/app/MiAudioVisual/MiAudioVisual.apk*|**声音相关**|**禁用**|
-|**com.miui.micloudsync**<br/>*/system/app/MiCloudSync/MiCloudSync.apk*|**米云同步**|**冻结**|
+|**com.miui.micloudsync**<br/>*/system/app/MiCloudSync/MiCloudSync.apk*|**米云同步**|**禁用**|
 |**com.milink.service**<br/>*/system/app/MiLinkService2/MiLinkService2.apk*|**小米投屏**|**禁用**|
 |**com.mipay.wallet**<br/>*/system/app/Mipay/Mipay.apk*|**小米钱包**|**禁用**|
 |**com.xiaomi.miplay_client**<br/>*/system/app/MiPlayClient/MiPlayClient.apk*|**小米投屏**|**禁用**|
 |**com.miui.misound**<br/>*/system/app/MiSound/MiSound.apk*|**音质音效**|**禁用**|
-|**com.miui.core**<br/>*/system/app/miui/miui.apk*|**MiuiSDK？**|**冻结**|
+|**com.miui.core**<br/>*/system/app/miui/miui.apk*|**MiuiSDK？**|**禁用**|
 |**com.miui.accessibility**<br/>*/system/app/MiuiAccessibility/MiuiAccessibility.apk*|**小米闻声**|**禁用**|
 |**com.miui.audiomonitor**<br/>*/system/app/MiuiAudioMonitor/MiuiAudioMonitor.apk*|**通话录音**|**禁用**|
 |**com.miui.face**<br/>*/system/app/MiuiBiometric/MiuiBiometric.apk*|**人脸认证**|**禁用+1**|
