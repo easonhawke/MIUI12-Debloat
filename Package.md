@@ -89,7 +89,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.miui.cloudservice**<br/>*/system/app/CloudService/CloudService.apk*|**小米云服务**|**禁用**|
 |**com.miui.qr**<br/>*/system/app/com.miui.qr/com.miui.qr.apk*|**二维码？**|**禁用**|
 |**com.android.companiondevicemanager**<br/>*/system/app/CompanionDeviceManager/CompanionDeviceManager.apk*|**配套设备**|**禁用**|
-|**com.xiaomi.bsp.gps.nps**<br/>*/system/app/ConnectivityNPI/ConnectivityNPI.apk*|**卫星定位**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.xiaomi.bsp.gps.nps**<br/>*/system/app/ConnectivityNPI/ConnectivityNPI.apk*|**卫星定位**|**禁用**|
 |**com.android.cts.ctsshim**<br/>*/system/app/CtsShimPrebuilt/CtsShimPrebuilt.apk*|**未知？？**|**禁用**|
 |**com.android.deskclock**<br/>*/system/app/DeskClock/DeskClock.apk*|**时钟应用**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.fido.asm**<br/>*/system/app/FidoAuthen/FidoAuthen.apk*|**Fido相关**|**禁用**|
@@ -167,7 +167,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.smspush**<br/>*/system/app/WAPPushManager/WAPPushManager.apk*|**短信推送**|**禁用**|
 |**com.miui.wmsvc**<br/>*/system/app/WMService/WMService.apk*|**未知？？**|**禁用**|
 |**com.qualcomm.qti.workloadclassifier**<br/>*/system/app/workloadclassifier/workloadclassifier.apk*|**未知？？**|**禁用+1**|
-|**com.xiaomi.account**<br/>*/system/app/XiaomiAccount/XiaomiAccount.apk*|**小米账号**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.xiaomi.account**<br/>*/system/app/XiaomiAccount/XiaomiAccount.apk*|**小米账号**|**禁用**|
 |**com.modemdebug**<br/>*/system/app/XiaomiModemDebugService/XiaomiModemDebugService.apk*|**调试？？**|**禁用**|
 |**com.xiaomi.xmsf**<br/>*/system/app/XiaomiServiceFramework/XiaomiServiceFramework.apk*|**小米框架**|**禁用+1**|
 |**com.xiaomi.simactivate.service**<br/>*/system/app/XiaomiSimActivateService/XiaomiSimActivateService.apk*|**小米激活**|**禁用**|
