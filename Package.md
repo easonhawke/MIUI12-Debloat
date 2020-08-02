@@ -100,7 +100,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.goodix.fingerprint.setting**<br/>*/system/app/GFDelmarSetting/GFDelmarSetting.apk*|**Goodix指纹**|**禁用+1**|
 |**com.google.android.ext.shared**<br/>*/system/app/GoogleExtShared/GoogleExtShared.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.printservice.recommendation**<br/>*/system/app/GooglePrintRecommendationService/<br/>GooglePrintRecommendationService.apk*|**谷歌打印**|**禁用**|
-|**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|**安全组件**|**禁用<br/>禁用后可用酷安安装应用**|
+|**com.miui.guardprovider**<br/>*/system/app/GuardProvider/GuardProvider.apk*|**安全组件**|**禁用<br/>禁用后用酷安安装应用**|
 |**com.android.htmlviewer**<br/>*/system/app/HTMLViewer/HTMLViewer.apk*|**Html查看**|**禁用**|
 |**com.miui.hybrid.accessory**<br/>*/system/app/HybridAccessory/HybridAccessory.apk*|**快应用**|**禁用**|
 |**com.miui.hybrid**<br/>*/system/app/HybridPlatform/HybridPlatform.apk*|**快应用平台**|**禁用**|
