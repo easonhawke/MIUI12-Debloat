@@ -116,7 +116,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.mipay.wallet**<br/>*/system/app/Mipay/Mipay.apk*|**小米钱包**|**禁用**|
 |**com.xiaomi.miplay_client**<br/>*/system/app/MiPlayClient/MiPlayClient.apk*|**小米投屏**|**禁用**|
 |**com.miui.misound**<br/>*/system/app/MiSound/MiSound.apk*|**音质音效**|**禁用**|
-|**com.miui.core**<br/>*/system/app/miui/miui.apk*|**MiuiSDK？**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用导致通话不显示归属地**|
+|**com.miui.core**<br/>*/system/app/miui/miui.apk*|**MiuiSDK？**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用通话不显示归属地**|
 |**com.miui.accessibility**<br/>*/system/app/MiuiAccessibility/MiuiAccessibility.apk*|**小米闻声**|**禁用**|
 |**com.miui.audiomonitor**<br/>*/system/app/MiuiAudioMonitor/MiuiAudioMonitor.apk*|**通话录音**|**禁用**|
 |**com.miui.face**<br/>*/system/app/MiuiBiometric/MiuiBiometric.apk*|**人脸认证**|**禁用+1**|
