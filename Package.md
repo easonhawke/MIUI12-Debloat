@@ -33,7 +33,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.qualcomm.qti.dynamicddsservice**<br/>*/product/app/DynamicDDSService/DynamicDDSService.apk*|**未知？？**|**禁用+1**|
 |**com.qualcomm.embms**<br/>*/product/app/embms/embms.apk*|**LTE-B相关**|**禁用**|
 |**com.android.modulemetadata**<br/>*/product/app/ModuleMetadata/ModuleMetadata.apk*|**未知？？**|**禁用**|
-|**com.android.networkstack.overlay**<br/>*/product/app/NetworkStackOverlay/NetworkStackOverlay.apk*|**未知？？**|**禁用**|
+|**com.android.networkstack.overlay**<br/>*/product/app/NetworkStackOverlay/NetworkStackOverlay.apk*|**5G相关**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.qti.performancemode**<br/>*/product/app/PerformanceMode/PerformanceMode.apk*|**性能模式**|**禁用**|
 |**com.android.dreams.phototable**<br/>*/product/app/PhotoTable/PhotoTable.apk*|**照片屏保**|**禁用**|
 |**com.qualcomm.qti.poweroffalarm**<br/>*/product/app/PowerOffAlarm/PowerOffAlarm.apk*|**关机闹钟**|**禁用**|
