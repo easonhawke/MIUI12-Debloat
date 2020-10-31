@@ -9,7 +9,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 -----
 |**APK包**|**备注**|**建议**|
 |---|---|---|
-|**Data/App目录**|||
+|**![image](https://placehold.it/8/2fafe6/) Data/App目录**|||
 |**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**计算器**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**清理大师**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.browser**<br/>*/data/app/com.android.browser-MndfuEm3R4JVwfyfDoWlyQ==/base.apk*|**浏览器**|**禁用**|
@@ -22,7 +22,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.miui.notes**<br/>*/data/app/Notes/Notes.apk*|**小米便签**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**小米天气**|**保留![image](https://placehold.it/8/f03c15/)**|
 |<br/>|<br/>|<br/>|
-|**Product/App目录**|||
+|**![image](https://placehold.it/8/2fafe6/) Product/App目录**|||
 |**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast**|**禁用**|
 |**com.qualcomm.qti.callfeaturessetting**<br/>*/product/app/CallFeaturesSetting/CallFeaturesSetting.apk*|**电话？？**|**禁用**|
 |**com.qti.service.colorservice**<br/>*/product/app/colorservice/colorservice.apk*|**色调？？**|**禁用**|
@@ -53,7 +53,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.google.android.webview**<br/>*/product/app/WebViewGoogle/WebViewGoogle.apk*|**WebView服务**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qti.xdivert**<br/>*/product/app/xdivert/xdivert.apk*|**XDivert通话转移？**|**禁用+1**|
 |<br/>|<br/>|<br/>|
-|**Product/Priv-app目录**|||
+|**![image](https://placehold.it/8/2fafe6/) Product/Priv-app目录**|||
 |**com.android.carrierconfig**<br/>*/product/priv-app/CarrierConfig/CarrierConfig.apk*|**运营商？**|**禁用**|
 |**com.google.android.configupdater**<br/>*/product/priv-app/ConfigUpdater/ConfigUpdater.apk*|**未知？？**|**禁用**|
 |**com.qti.dpmserviceapp**<br/>*/product/priv-app/dpmserviceapp/dpmserviceapp.apk*|**未知？？**|**禁用+1**|
@@ -71,7 +71,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.storagemanager**<br/>*/product/priv-app/StorageManager/StorageManager.apk*|**存储管理**|**禁用**|
 |**com.android.wallpapercropper**<br/>*/product/priv-app/WallpaperCropper/WallpaperCropper.apk*|**壁纸裁剪**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**System/App目录**|||
+|**![image](https://placehold.it/8/2fafe6/) System/App目录**|||
 |**com.xiaomi.aiasst.vision**<br/>*/system/app/AiAsstVision/AiAsstVision.apk*|**Ai智障**|**禁用**|
 |**com.dsi.ant.server**<br/>*/system/app/AntHalService/AntHalService.apk*|**无线电**|**禁用**|
 |**com.qualcomm.qti.autoregistration**<br/>*/system/app/AutoRegistration/AutoRegistration.apk*|**未知？？**|**禁用+1**|
@@ -178,11 +178,11 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.miui.translation.youdao**<br/>*/system/app/YouDaoEngine/YouDaoEngine.apk*|**有道翻译**|**禁用**|
 |**com.miui.zman**<br/>*/system/app/Zman/Zman.apk*|**安全分享**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**System/Framework目录**|||
+|**![image](https://placehold.it/8/2fafe6/) System/Framework目录**|||
 |**com.miui.rom**<br/>*/system/framework/framework-ext-res/framework-ext-res.apk*|**系统资源**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**android**<br/>*/system/framework/framework-res.apk*|**系统资源**|**保留![image](https://placehold.it/8/f03c15/)**|
 |<br/>|<br/>|<br/>|
-|**System/Priv-App目录**|||
+|**![image](https://placehold.it/8/2fafe6/) System/Priv-App目录**|||
 |**com.lbe.security.miui**<br/>*/system/priv-app/AuthManager/AuthManager.apk*|**权限管理**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.backup**<br/>*/system/priv-app/Backup/Backup.apk*|**备份工具**|**禁用**|
 |**com.android.backupconfirm**<br/>*/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk*|**备份确认**|**禁用**|
@@ -254,7 +254,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.qualcomm.wfd.service**<br/>*/system/priv-app/WfdService/WfdService.apk*|**未知？？**|**禁用**|
 |**com.miui.yellowpage**<br/>*/system/priv-app/YellowPage/YellowPage.apk*|**生活黄页**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**Vendor/App目录**|||
+|**![image](https://placehold.it/8/2fafe6/) Vendor/App目录**|||
 |**vendor.qti.hardware.cacert.server**<br/>*/vendor/app/CACertService/CACertService.apk*|**证书服务**|**禁用+1**|
 |**com.qualcomm.qti.cne**<br/>*/vendor/app/CneApp/CneApp.apk*|**未知？？**|**禁用+1**|
 |**com.qualcomm.qti.gpudrivers.sm8250.api29**<br/>*/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/<br/>com.qualcomm.qti.gpudrivers.sm8250.api29.apk*|**GPU驱动**|**禁用**|
@@ -267,7 +267,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**微信支付？**|**禁用+1**|
 |**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|**时间服务**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**Vendor/Overlay目录**|||
+|**![image](https://placehold.it/8/2fafe6/) Vendor/Overlay目录**|||
 |**android.aosp.overlay**<br/>*/vendor/overlay/AospFrameworkResOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.wifi.resources.xiaomi**<br/>*/vendor/overlay/AospWifiResOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.carrierconfig.overlay.common**<br/>*/vendor/overlay/CarrierConfigResCommon.apk*|**Overlay资源**|**禁用**|
@@ -289,7 +289,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.server.telecom.overlay.common**<br/>*/vendor/overlay/TelecommResCommon.apk*|**Overlay资源**|**禁用**|
 |**com.android.phone.overlay.common**<br/>*/vendor/overlay/TelephonyResCommon.apk*|**Overlay资源**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**Product/Overlay目录**|||
+|**![image](https://placehold.it/8/2fafe6/) Product/Overlay目录**|||
 |**com.android.theme.color.black**<br/>*/product/overlay/AccentColorBlack/AccentColorBlackOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.theme.color.cinnamon**<br/>*/product/overlay/AccentColorCinnamon/AccentColorCinnamonOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.theme.color.green**<br/>*/product/overlay/AccentColorGreen/AccentColorGreenOverlay.apk*|**Overlay资源**|**禁用**|
