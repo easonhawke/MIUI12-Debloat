@@ -201,7 +201,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.dynsystem**<br/>*/system/priv-app/DynamicSystemInstallationService/<br/>DynamicSystemInstallationService.apk*|**系统安装？**|**禁用**|
 |**com.android.externalstorage**<br/>*/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk*|**外部存储**|**禁用**|
 |**com.xiaomi.finddevice**<br/>*/system/priv-app/FindDevice/FindDevice.apk*|**查找手机**|**禁用+1**|
-|**com.android.location.fused**<br/>*/system/priv-app/FusedLocation/FusedLocation.apk*|**一体化位置**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.android.location.fused**<br/>*/system/priv-app/FusedLocation/FusedLocation.apk*|**一体化位置**|**禁用**|
 |**com.google.android.documentsui**<br/>*/system/priv-app/GoogleDocumentsUIPrebuilt/GoogleDocumentsUIPrebuilt.apk*|**谷歌文档**|**禁用**|
 |**com.google.android.ext.services**<br/>*/system/priv-app/GoogleExtServicesPrebuilt/GoogleExtServicesPrebuilt.apk*|**谷歌服务**|**禁用**|
 |**com.android.incallui**<br/>*/system/priv-app/InCallUI/InCallUI.apk*|**来电界面**|**保留![image](https://placehold.it/8/f03c15/)**|
