@@ -1,6 +1,6 @@
 本文档正在施工中<br/>
-目录结构：
-![image](https://placehold.it/8/f03c15/)Data/App目录  <br/>![image](https://placehold.it/8/f03c15/)Product/App目录  <br/>![image](https://placehold.it/8/f03c15/)Product/Priv-app目录  <br/>![image](https://placehold.it/8/f03c15/)System/App目录  <br/>![image](https://placehold.it/8/f03c15/)System/Framework目录  <br/>![image](https://placehold.it/8/f03c15/)System/Priv-App目录  <br/>![image](https://placehold.it/8/f03c15/)Vendor/App目录  <br/>![image](https://placehold.it/8/f03c15/)Vendor/Overlay目录  <br/>![image](https://placehold.it/8/f03c15/)Product/Overlay目录 <br/>
+目录结构：<br/>
+![image](https://placehold.it/8/2fafe6/) Data/App目录<br/>![image](https://placehold.it/8/2fafe6/) Product/App目录<br/>![image](https://placehold.it/8/2fafe6/) Product/Priv-app目录<br/>![image](https://placehold.it/8/2fafe6/) System/App目录<br/>![image](https://placehold.it/8/2fafe6/) System/Framework目录<br/>![image](https://placehold.it/8/2fafe6/) System/Priv-App目录<br/>![image](https://placehold.it/8/2fafe6/) Vendor/App目录<br/>![image](https://placehold.it/8/2fafe6/) Vendor/Overlay目录<br/>![image](https://placehold.it/8/2fafe6/) Product/Overlay目录<br/>
 Ps：文档中的保留![image](https://placehold.it/8/f03c15/)/禁用只能作为参考使用，本人不能也无法对您自己的操作负责。<br/>
 Ps：文档中如有错误，或您知道某个应用更详细的信息，请tg@easonn或者邮件easonn@88.com。<br/>
 Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不更改可能禁用也无法压制其启动。<br/>
