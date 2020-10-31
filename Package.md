@@ -11,10 +11,9 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |---|---|---|
 |**![image](https://placehold.it/8/2fafe6/) Data/App目录**|||
 |**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**计算器**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**清理大师**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.calendar**<br/>*/data/app/com.android.calendar-hpxMeSYBsZOK4AiVx2W7PA==/base.apk*|**小米日历**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.notes**<br/>*/data/app/Notes/Notes.apk*|**小米便签**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**小米天气**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**清理**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.miui.notes**<br/>*/data/app/Notes/Notes.apk*|**便签**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**天气**|**保留![image](https://placehold.it/8/f03c15/)**|
 |<br/>|<br/>|<br/>|
 |**![image](https://placehold.it/8/2fafe6/) Product/App目录**|||
 |**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast**|**禁用**|
@@ -180,9 +179,10 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.lbe.security.miui**<br/>*/system/priv-app/AuthManager/AuthManager.apk*|**权限管理**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.miui.backup**<br/>*/system/priv-app/Backup/Backup.apk*|**备份工具**|**禁用**|
 |**com.android.backupconfirm**<br/>*/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk*|**备份确认**|**禁用**|
-|**com.qualcomm.location**<br/>*/system/priv-app/beyondGnssService/beyondGnssService.apk*|**位置服务**|**禁用**|
+|**com.qualcomm.location**<br/>*/system/priv-app/beyondGnssService/beyondGnssService.apk*|**高通位置**|**禁用**|
 |**com.android.providers.blockednumber**<br/>*/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk*|**屏蔽号码**|**禁用+1**|
-|**com.android.providers.calendar**<br/>*/system/priv-app/CalendarProvider/CalendarProvider.apk*|**小米日历**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.android.calendar**<br/>*/system/priv-app/Calendar/Calendar.apk*|**日历**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.android.providers.calendar**<br/>*/system/priv-app/CalendarProvider/CalendarProvider.apk*|**日历存储**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.calllogbackup**<br/>*/system/priv-app/CallLogBackup/CallLogBackup.apk*|**通话备份**|**禁用+1**|
 |**com.miui.cloudbackup**<br/>*/system/priv-app/CloudBackup/CloudBackup.apk*|**桌面备份**|**禁用**|
 |**com.miui.cloudservice.sysbase**<br/>*/system/priv-app/CloudServiceSysbase/CloudServiceSysbase.apk*|**米云服务**|**禁用**|
