@@ -18,7 +18,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**![image](https://placehold.it/8/2fafe6/) Product/App目录**|||
 |**com.android.networkstack.overlay**<br/>*/product/app/NetworkStackOverlay/NetworkStackOverlay.apk*|**5G相关**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.qti.telephonyservice**<br/>*/product/app/QtiTelephonyService/QtiTelephonyService.apk*|**电话相关**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.google.android.webview**<br/>*/product/app/WebViewGoogle/WebViewGoogle.apk*|**WebView服务**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.google.android.webview**<br/>*/product/app/WebViewGoogle/WebViewGoogle.apk*|**Web服务**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast**|**禁用**|
 |**com.qualcomm.qti.callfeaturessetting**<br/>*/product/app/CallFeaturesSetting/CallFeaturesSetting.apk*|**电话？？**|**禁用**|
 |**com.qti.service.colorservice**<br/>*/product/app/colorservice/colorservice.apk*|**颜色？？**|**禁用**|
@@ -51,16 +51,16 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|**手机信号**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.settings**<br/>*/product/priv-app/Settings/Settings.apk*|**系统设置**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.carrierconfig**<br/>*/product/priv-app/CarrierConfig/CarrierConfig.apk*|**运营商？**|**禁用**|
-|**com.google.android.configupdater**<br/>*/product/priv-app/ConfigUpdater/ConfigUpdater.apk*|**未知？？**|**禁用**|
-|**com.qti.dpmserviceapp**<br/>*/product/priv-app/dpmserviceapp/dpmserviceapp.apk*|**未知？？**|**禁用+1**|
+|**com.google.android.configupdater**<br/>*/product/priv-app/ConfigUpdater/ConfigUpdater.apk*|**应用配置？**|**禁用**|
+|**com.qti.dpmserviceapp**<br/>*/product/priv-app/dpmserviceapp/dpmserviceapp.apk*|**DRM保护？**|**禁用+1**|
 |**com.android.emergency**<br/>*/product/priv-app/EmergencyInfo/EmergencyInfo.apk*|**紧急模式**|**禁用**|
-|**com.google.android.gms**<br/>*/product/priv-app/GmsCore/GmsCore.apk*|**谷歌服务**|**禁用**|
+|**com.google.android.gms**<br/>*/product/priv-app/GmsCore/GmsCore.apk*|**谷歌服务**|**删除**|
 |**com.google.android.onetimeinitializer**<br/>*/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.partnersetup**<br/>*/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk*|**谷歌相关**|**禁用**|
 |**com.google.android.gsf**<br/>*/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk*|**谷歌相关**|**禁用**|
-|**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|**未知？？**|**禁用**|
+|**com.qti.ltebc**<br/>*/product/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk*|**LTE广播？**|**禁用**|
 |**com.qualcomm.qti.seccamservice**<br/>*/product/priv-app/seccamservice/seccamservice.apk*|**相机安全**|**禁用**|
-|**com.android.settings.intelligence**<br/>*/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk*|**未知？？**|**禁用**|
+|**com.android.settings.intelligence**<br/>*/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk*|**智能设置**|**禁用**|
 |**com.android.storagemanager**<br/>*/product/priv-app/StorageManager/StorageManager.apk*|**存储管理**|**禁用**|
 |**com.android.wallpapercropper**<br/>*/product/priv-app/WallpaperCropper/WallpaperCropper.apk*|**壁纸裁剪**|**禁用**|
 |<br/>|<br/>|<br/>|
