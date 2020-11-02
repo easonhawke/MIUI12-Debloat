@@ -200,7 +200,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.server.telecom**<br/>*/system/priv-app/Telecom/Telecom.apk*|**通话管理**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.providers.telephony**<br/>*/system/priv-app/TelephonyProvider/TelephonyProvider.apk*|**电话存储**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.android.phone**<br/>*/system/priv-app/TeleService/TeleService.apk*|**电话服务**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.vpndialogs**<br/>*/system/priv-app/VpnDialogs/VpnDialogs.apk*|**VPN工具**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.android.vpndialogs**<br/>*/system/priv-app/VpnDialogs/VpnDialogs.apk*|**VPN工具**|**禁用**|
 |**com.miui.backup**<br/>*/system/priv-app/Backup/Backup.apk*|**备份工具**|**禁用**|
 |**com.android.backupconfirm**<br/>*/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk*|**备份确认**|**禁用**|
 |**com.qualcomm.location**<br/>*/system/priv-app/beyondGnssService/beyondGnssService.apk*|**高通位置**|**禁用**|
@@ -258,7 +258,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**vendor.qti.iwlan**<br/>*/vendor/app/IWlanService/IWlanService.apk*|**无线相关？**|**禁用**|
 |**com.xiaomi.migameservice**<br/>*/vendor/app/MiGameService/MiGameService.apk*|**游戏高能**|**禁用**|
 |**com.qualcomm.qti.qwes.AndroidService**<br/>*/vendor/app/QwesAndroidService/QwesAndroidService.apk*|**未知？？**|**禁用**|
-|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**微信支付？**|**禁用+1**|
+|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**指纹支付**|**保留![image](https://placehold.it/8/f03c15/)**|
 |**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|**时间服务**|**禁用**|
 |<br/>|<br/>|<br/>|
 |**![image](https://placehold.it/8/2fafe6/) Vendor/Overlay目录**|||
