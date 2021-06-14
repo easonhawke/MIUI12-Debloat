@@ -8,4 +8,4 @@
 
 4.维护人：@easonhawke
 
-5.参与讨论方式：tg@easonn  email:easonn@88.com 
+5.反馈建议：tg@easonn
