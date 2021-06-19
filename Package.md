@@ -1,7 +1,7 @@
 本文档正在施工中<br/>
 目录结构：<br/>
-![image](https://placehold.it/8/2fafe6/) Data/App目录<br/>![image](https://placehold.it/8/2fafe6/) Product/App目录<br/>![image](https://placehold.it/8/2fafe6/) Product/Priv-app目录<br/>![image](https://placehold.it/8/2fafe6/) System/App目录<br/>![image](https://placehold.it/8/2fafe6/) System/Framework目录<br/>![image](https://placehold.it/8/2fafe6/) System/Priv-App目录<br/>![image](https://placehold.it/8/2fafe6/) Vendor/App目录<br/>![image](https://placehold.it/8/2fafe6/) Vendor/Overlay目录<br/>![image](https://placehold.it/8/2fafe6/) Product/Overlay目录<br/>
-Ps：文档中的保留![image](https://placehold.it/8/f03c15/)/禁用只能作为参考使用，本人不能也无法对您自己的操作负责。<br/>
+![image](http://placehold.it/8/2fafe6/) Data/App目录<br/>![image](http://placehold.it/8/2fafe6/) Product/App目录<br/>![image](http://placehold.it/8/2fafe6/) Product/Priv-app目录<br/>![image](http://placehold.it/8/2fafe6/) System/App目录<br/>![image](http://placehold.it/8/2fafe6/) System/Framework目录<br/>![image](http://placehold.it/8/2fafe6/) System/Priv-App目录<br/>![image](http://placehold.it/8/2fafe6/) Vendor/App目录<br/>![image](http://placehold.it/8/2fafe6/) Vendor/Overlay目录<br/>![image](http://placehold.it/8/2fafe6/) Product/Overlay目录<br/>
+Ps：文档中的保留![image](http://placehold.it/8/f03c15/)/禁用只能作为参考使用，本人不能也无法对您自己的操作负责。<br/>
 Ps：文档中如有错误，或您知道某个应用更详细的信息，请tg@easonn或者邮件easonn@88.com。<br/>
 Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不更改可能禁用也无法压制其启动。<br/>
 
@@ -9,16 +9,16 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 -----
 |**APK包**|**备注**|**建议**|
 |---|---|---|
-|**![image](https://placehold.it/8/2fafe6/) Data/App目录**|||
-|**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**计算器**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**清理**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.notes**<br/>*/data/app/Notes/Notes.apk*|**便签**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**天气**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**![image](http://placehold.it/8/2fafe6/) Data/App目录**|||
+|**com.miui.calculator**<br/>*/data/app/Calculator/Calculator.apk*|**计算器**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.cleanmaster**<br/>*/data/app/CleanMaster/CleanMaster.apk*|**清理**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.notes**<br/>*/data/app/Notes/Notes.apk*|**便签**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.weather2**<br/>*/data/app/Weather/Weather.apk*|**天气**|**保留![image](http://placehold.it/8/f03c15/)**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) Product/App目录**|||
-|**com.android.networkstack.overlay**<br/>*/product/app/NetworkStackOverlay/NetworkStackOverlay.apk*|**5G**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.qualcomm.qti.telephonyservice**<br/>*/product/app/QtiTelephonyService/QtiTelephonyService.apk*|**电话**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.google.android.webview**<br/>*/product/app/WebViewGoogle/WebViewGoogle.apk*|**WEBKIT**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**![image](http://placehold.it/8/2fafe6/) Product/App目录**|||
+|**com.android.networkstack.overlay**<br/>*/product/app/NetworkStackOverlay/NetworkStackOverlay.apk*|**5G**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.qualcomm.qti.telephonyservice**<br/>*/product/app/QtiTelephonyService/QtiTelephonyService.apk*|**电话**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.google.android.webview**<br/>*/product/app/WebViewGoogle/WebViewGoogle.apk*|**WEBKIT**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.qualcomm.atfwd**<br/>*/product/app/atfwd/atfwd.apk*|**Miracast**|**禁用**|
 |**com.qualcomm.qti.callfeaturessetting**<br/>*/product/app/CallFeaturesSetting/CallFeaturesSetting.apk*|**电话**|**禁用**|
 |**com.qti.service.colorservice**<br/>*/product/app/colorservice/colorservice.apk*|**色彩**|**禁用**|
@@ -46,10 +46,10 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.qualcomm.uimremoteserver**<br/>*/product/app/uimremoteserver/uimremoteserver.apk*|**UIM相关**|**禁用+1**|
 |**com.qti.xdivert**<br/>*/product/app/xdivert/xdivert.apk*|**通话转移**|**禁用+1**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) Product/Priv-app目录**|||
-|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**VoLte相关**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|**手机信号**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.settings**<br/>*/product/priv-app/Settings/Settings.apk*|**系统设置**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**![image](http://placehold.it/8/2fafe6/) Product/Priv-app目录**|||
+|**org.codeaurora.ims**<br/>*/product/priv-app/ims/ims.apk*|**VoLte相关**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.qualcomm.qcrilmsgtunnel**<br/>*/product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk*|**手机信号**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.settings**<br/>*/product/priv-app/Settings/Settings.apk*|**系统设置**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.android.carrierconfig**<br/>*/product/priv-app/CarrierConfig/CarrierConfig.apk*|**运营商**|**禁用**|
 |**com.google.android.configupdater**<br/>*/product/priv-app/ConfigUpdater/ConfigUpdater.apk*|**配置应用**|**禁用**|
 |**com.qti.dpmserviceapp**<br/>*/product/priv-app/dpmserviceapp/dpmserviceapp.apk*|**DRM保护**|**禁用+1**|
@@ -64,17 +64,17 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.storagemanager**<br/>*/product/priv-app/StorageManager/StorageManager.apk*|**存储管理**|**禁用**|
 |**com.android.wallpapercropper**<br/>*/product/priv-app/WallpaperCropper/WallpaperCropper.apk*|**壁纸裁剪**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) System/App目录**|||
-|**com.android.deskclock**<br/>*/system/app/DeskClock/DeskClock.apk*|**时钟应用**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.xiaomi.location.fused**<br/>*/system/app/FusedLocationProvider/FusedLocationProvider.apk*|**融合位置**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.xiaomi.metoknlp**<br/>*/system/app/MetokNLP/MetokNLP.apk*|**网络位置**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.core**<br/>*/system/app/miui/miui.apk*|**MIUISDK**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用通话不显示归属地**|
-|**com.miui.system**<br/>*/system/app/miuisystem/miuisystem.apk*|**小米系统**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**miui.systemui.plugin**<br/>*/system/app/MiuiSystemUIPlugin/MiuiSystemUIPlugin.apk*|**米UI插件**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.notification**<br/>*/system/app/NotificationCenter/NotificationCenter.apk*|**通知管理**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.xiaomi.powerchecker**<br/>*/system/app/PowerChecker/PowerChecker.apk*|**耗电检测**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.powerkeeper**<br/>*/system/app/PowerKeeper/PowerKeeper.apk*|**电量性能**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.qti.slaservice**<br/>*/system/app/slaservice/slaservice.apk*|**无线与数据**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**![image](http://placehold.it/8/2fafe6/) System/App目录**|||
+|**com.android.deskclock**<br/>*/system/app/DeskClock/DeskClock.apk*|**时钟应用**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.xiaomi.location.fused**<br/>*/system/app/FusedLocationProvider/FusedLocationProvider.apk*|**融合位置**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.xiaomi.metoknlp**<br/>*/system/app/MetokNLP/MetokNLP.apk*|**网络位置**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.core**<br/>*/system/app/miui/miui.apk*|**MIUISDK**|**保留![image](http://placehold.it/8/f03c15/)<br/>禁用通话不显示归属地**|
+|**com.miui.system**<br/>*/system/app/miuisystem/miuisystem.apk*|**小米系统**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**miui.systemui.plugin**<br/>*/system/app/MiuiSystemUIPlugin/MiuiSystemUIPlugin.apk*|**米UI插件**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.notification**<br/>*/system/app/NotificationCenter/NotificationCenter.apk*|**通知管理**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.xiaomi.powerchecker**<br/>*/system/app/PowerChecker/PowerChecker.apk*|**耗电检测**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.powerkeeper**<br/>*/system/app/PowerKeeper/PowerKeeper.apk*|**电量性能**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.qti.slaservice**<br/>*/system/app/slaservice/slaservice.apk*|**无线与数据**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.xiaomi.aiasst.vision**<br/>*/system/app/AiAsstVision/AiAsstVision.apk*|**Ai智障**|**禁用**|
 |**com.dsi.ant.server**<br/>*/system/app/AntHalService/AntHalService.apk*|**无线电**|**禁用**|
 |**com.qualcomm.qti.autoregistration**<br/>*/system/app/AutoRegistration/AutoRegistration.apk*|**自动注册**|**禁用+1**|
@@ -171,35 +171,35 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.miui.translation.youdao**<br/>*/system/app/YouDaoEngine/YouDaoEngine.apk*|**有道翻译**|**禁用**|
 |**com.miui.zman**<br/>*/system/app/Zman/Zman.apk*|**安全分享**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) System/Framework目录**|||
-|**com.miui.rom**<br/>*/system/framework/framework-ext-res/framework-ext-res.apk*|**系统资源**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**android**<br/>*/system/framework/framework-res.apk*|**系统资源**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**![image](http://placehold.it/8/2fafe6/) System/Framework目录**|||
+|**com.miui.rom**<br/>*/system/framework/framework-ext-res/framework-ext-res.apk*|**系统资源**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**android**<br/>*/system/framework/framework-res.apk*|**系统资源**|**保留![image](http://placehold.it/8/f03c15/)**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) System/Priv-App目录**|||
-|**com.lbe.security.miui**<br/>*/system/priv-app/AuthManager/AuthManager.apk*|**权限**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.calendar**<br/>*/system/priv-app/Calendar/Calendar.apk*|**日历**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.providers.calendar**<br/>*/system/priv-app/CalendarProvider/CalendarProvider.apk*|**日历存储**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.contacts**<br/>*/system/priv-app/Contacts/Contacts.apk*|**联系人**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.providers.contacts**<br/>*/system/priv-app/ContactsProvider/ContactsProvider.apk*|**联系人**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.incallui**<br/>*/system/priv-app/InCallUI/InCallUI.apk*|**来电界面**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.networkstack.inprocess**<br/>*/system/priv-app/InProcessNetworkStack/InProcessNetworkStack.apk*|**进程处理？**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.providers.media**<br/>*/system/priv-app/MediaProvider/MediaProvider.apk*|**媒体存储**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.xiaomi.misettings**<br/>*/system/priv-app/MiSettings/MiSettings.apk*|**小米设置**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.aod**<br/>*/system/priv-app/MiuiAod/MiuiAod.apk*|**万象息屏**|**保留![image](https://placehold.it/8/f03c15/)<br/>禁用后无法息屏解锁**|
-|**com.android.camera**<br/>*/system/priv-app/MiuiCamera/MiuiCamera.apk*|**小米相机**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.gallery**<br/>*/system/priv-app/MiuiGallery/MiuiGallery.apk*|**小米相册**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.home**<br/>*/system/priv-app/MiuiHome/MiuiHome.apk*|**小米桌面**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.packageinstaller**<br/>*/system/priv-app/MiuiPackageInstaller/MiuiPackageInstaller.apk*|**应用包管理**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.systemui**<br/>*/system/priv-app/MiuiSystemUI/MiuiSystemUI.apk*|**系统界面**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.mms**<br/>*/system/priv-app/Mms/Mms.apk*|**短信服务**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.permissioncontroller**<br/>*/system/priv-app/PermissionController/PermissionController.apk*|**权限控制**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.miui.securitycenter**<br/>*/system/priv-app/SecurityCenter/SecurityCenter.apk*|**安全管家**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.providers.settings**<br/>*/system/priv-app/SettingsProvider/SettingsProvider.apk*|**设置存储**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**Simplicity.LT.Tools**<br/>*/system/priv-app/Simplicity/Simplicity.apk*|**官改工具**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.statementservice**<br/>*/system/priv-app/StatementService/StatementService.apk*|**应用跳转**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.server.telecom**<br/>*/system/priv-app/Telecom/Telecom.apk*|**通话管理**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.providers.telephony**<br/>*/system/priv-app/TelephonyProvider/TelephonyProvider.apk*|**电话存储**|**保留![image](https://placehold.it/8/f03c15/)**|
-|**com.android.phone**<br/>*/system/priv-app/TeleService/TeleService.apk*|**电话服务**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**![image](http://placehold.it/8/2fafe6/) System/Priv-App目录**|||
+|**com.lbe.security.miui**<br/>*/system/priv-app/AuthManager/AuthManager.apk*|**权限**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.calendar**<br/>*/system/priv-app/Calendar/Calendar.apk*|**日历**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.providers.calendar**<br/>*/system/priv-app/CalendarProvider/CalendarProvider.apk*|**日历存储**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.contacts**<br/>*/system/priv-app/Contacts/Contacts.apk*|**联系人**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.providers.contacts**<br/>*/system/priv-app/ContactsProvider/ContactsProvider.apk*|**联系人**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.incallui**<br/>*/system/priv-app/InCallUI/InCallUI.apk*|**来电界面**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.networkstack.inprocess**<br/>*/system/priv-app/InProcessNetworkStack/InProcessNetworkStack.apk*|**进程处理？**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.providers.media**<br/>*/system/priv-app/MediaProvider/MediaProvider.apk*|**媒体存储**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.xiaomi.misettings**<br/>*/system/priv-app/MiSettings/MiSettings.apk*|**小米设置**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.aod**<br/>*/system/priv-app/MiuiAod/MiuiAod.apk*|**万象息屏**|**保留![image](http://placehold.it/8/f03c15/)<br/>禁用后无法息屏解锁**|
+|**com.android.camera**<br/>*/system/priv-app/MiuiCamera/MiuiCamera.apk*|**小米相机**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.gallery**<br/>*/system/priv-app/MiuiGallery/MiuiGallery.apk*|**小米相册**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.home**<br/>*/system/priv-app/MiuiHome/MiuiHome.apk*|**小米桌面**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.packageinstaller**<br/>*/system/priv-app/MiuiPackageInstaller/MiuiPackageInstaller.apk*|**应用包管理**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.systemui**<br/>*/system/priv-app/MiuiSystemUI/MiuiSystemUI.apk*|**系统界面**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.mms**<br/>*/system/priv-app/Mms/Mms.apk*|**短信服务**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.permissioncontroller**<br/>*/system/priv-app/PermissionController/PermissionController.apk*|**权限控制**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.miui.securitycenter**<br/>*/system/priv-app/SecurityCenter/SecurityCenter.apk*|**安全管家**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.providers.settings**<br/>*/system/priv-app/SettingsProvider/SettingsProvider.apk*|**设置存储**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**Simplicity.LT.Tools**<br/>*/system/priv-app/Simplicity/Simplicity.apk*|**官改工具**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.statementservice**<br/>*/system/priv-app/StatementService/StatementService.apk*|**应用跳转**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.server.telecom**<br/>*/system/priv-app/Telecom/Telecom.apk*|**通话管理**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.providers.telephony**<br/>*/system/priv-app/TelephonyProvider/TelephonyProvider.apk*|**电话存储**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.android.phone**<br/>*/system/priv-app/TeleService/TeleService.apk*|**电话服务**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.android.vpndialogs**<br/>*/system/priv-app/VpnDialogs/VpnDialogs.apk*|**VPN工具**|**禁用**|
 |**com.miui.backup**<br/>*/system/priv-app/Backup/Backup.apk*|**备份工具**|**禁用**|
 |**com.android.backupconfirm**<br/>*/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk*|**备份确认**|**禁用**|
@@ -248,7 +248,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.qualcomm.wfd.service**<br/>*/system/priv-app/WfdService/WfdService.apk*|**WIFI直连**|**禁用**|
 |**com.miui.yellowpage**<br/>*/system/priv-app/YellowPage/YellowPage.apk*|**生活黄页**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) Vendor/App目录**|||
+|**![image](http://placehold.it/8/2fafe6/) Vendor/App目录**|||
 |**vendor.qti.hardware.cacert.server**<br/>*/vendor/app/CACertService/CACertService.apk*|**证书服务**|**禁用+1**|
 |**com.qualcomm.qti.cne**<br/>*/vendor/app/CneApp/CneApp.apk*|**CNE应用**|**禁用+1**|
 |**com.qualcomm.qti.gpudrivers.sm8250.api29**<br/>*/vendor/app/com.qualcomm.qti.gpudrivers.sm8250.api29/<br/>com.qualcomm.qti.gpudrivers.sm8250.api29.apk*|**GPU驱动**|**禁用**|
@@ -258,10 +258,10 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**vendor.qti.iwlan**<br/>*/vendor/app/IWlanService/IWlanService.apk*|**无线相关**|**禁用**|
 |**com.xiaomi.migameservice**<br/>*/vendor/app/MiGameService/MiGameService.apk*|**游戏高能**|**禁用**|
 |**com.qualcomm.qti.qwes.AndroidService**<br/>*/vendor/app/QwesAndroidService/QwesAndroidService.apk*|**无线边缘**|**禁用**|
-|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**指纹支付**|**保留![image](https://placehold.it/8/f03c15/)**|
+|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**指纹支付**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|**时间服务**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) Vendor/Overlay目录**|||
+|**![image](http://placehold.it/8/2fafe6/) Vendor/Overlay目录**|||
 |**android.aosp.overlay**<br/>*/vendor/overlay/AospFrameworkResOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.wifi.resources.xiaomi**<br/>*/vendor/overlay/AospWifiResOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.carrierconfig.overlay.common**<br/>*/vendor/overlay/CarrierConfigResCommon.apk*|**Overlay资源**|**禁用**|
@@ -283,7 +283,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.server.telecom.overlay.common**<br/>*/vendor/overlay/TelecommResCommon.apk*|**Overlay资源**|**禁用**|
 |**com.android.phone.overlay.common**<br/>*/vendor/overlay/TelephonyResCommon.apk*|**Overlay资源**|**禁用**|
 |<br/>|<br/>|<br/>|
-|**![image](https://placehold.it/8/2fafe6/) Product/Overlay目录**|||
+|**![image](http://placehold.it/8/2fafe6/) Product/Overlay目录**|||
 |**com.android.theme.color.black**<br/>*/product/overlay/AccentColorBlack/AccentColorBlackOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.theme.color.cinnamon**<br/>*/product/overlay/AccentColorCinnamon/AccentColorCinnamonOverlay.apk*|**Overlay资源**|**禁用**|
 |**com.android.theme.color.green**<br/>*/product/overlay/AccentColorGreen/AccentColorGreenOverlay.apk*|**Overlay资源**|**禁用**|
