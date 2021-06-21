@@ -200,10 +200,10 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**com.android.server.telecom**<br/>*/system/priv-app/Telecom/Telecom.apk*|**通话管理**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.android.providers.telephony**<br/>*/system/priv-app/TelephonyProvider/TelephonyProvider.apk*|**电话存储**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.android.phone**<br/>*/system/priv-app/TeleService/TeleService.apk*|**电话服务**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.qualcomm.location**<br/>*/system/priv-app/beyondGnssService/beyondGnssService.apk*|**高通位置**|**保留![image](http://placehold.it/8/f03c15/)**|
 |**com.android.vpndialogs**<br/>*/system/priv-app/VpnDialogs/VpnDialogs.apk*|**VPN工具**|**禁用**|
 |**com.miui.backup**<br/>*/system/priv-app/Backup/Backup.apk*|**备份工具**|**禁用**|
 |**com.android.backupconfirm**<br/>*/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk*|**备份确认**|**禁用**|
-|**com.qualcomm.location**<br/>*/system/priv-app/beyondGnssService/beyondGnssService.apk*|**高通位置**|**禁用**|
 |**com.android.providers.blockednumber**<br/>*/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk*|**屏蔽号码**|**禁用+1**|
 |**com.android.calllogbackup**<br/>*/system/priv-app/CallLogBackup/CallLogBackup.apk*|**通话备份**|**禁用+1**|
 |**com.miui.cloudbackup**<br/>*/system/priv-app/CloudBackup/CloudBackup.apk*|**桌面备份**|**禁用**|
