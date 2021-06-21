@@ -258,7 +258,7 @@ Ps：文档中的禁用+1是指在禁用基础上，更改apk后缀为apk1，不
 |**vendor.qti.iwlan**<br/>*/vendor/app/IWlanService/IWlanService.apk*|**无线相关**|**禁用**|
 |**com.xiaomi.migameservice**<br/>*/vendor/app/MiGameService/MiGameService.apk*|**游戏高能**|**禁用**|
 |**com.qualcomm.qti.qwes.AndroidService**<br/>*/vendor/app/QwesAndroidService/QwesAndroidService.apk*|**无线边缘**|**禁用**|
-|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**指纹支付**|**保留![image](http://placehold.it/8/f03c15/)**|
+|**com.tencent.soter.soterserver**<br/>*/vendor/app/SoterService/SoterService.apk*|**指纹支付**|**禁用**|
 |**com.qualcomm.timeservice**<br/>*/vendor/app/TimeService/TimeService.apk*|**时间服务**|**禁用**|
 |<br/>|<br/>|<br/>|
 |**![image](http://placehold.it/8/2fafe6/) Vendor/Overlay目录**|||
